@@ -1,0 +1,78 @@
+{
+    "session_string": "pid_30:pid_29:baseline",
+    "story_start_time": 1728654742.2734265,
+    "story_end_time": 1728655113.9859655,
+    "total_time": 371.7125389575958,
+    "total_reward": 55.0,
+    "robot_theme": "mystery",
+    "participant_1_theme": "mystery",
+    "participant_2_theme": "adventure",
+    "words": [
+        "Unknown",
+        "Fog",
+        "Danger",
+        "Truth",
+        "Secret",
+        "Map",
+        "Shadow",
+        "Journey",
+        "Mask"
+    ],
+    "story": [
+        "In a town wrapped in mist,\nLived the Unknown, veiled in a crypt.",
+        "not much was known about the unknown for it lived in a lot of fog it like to hide in the night and they're only known activity was kidnapping people seemingly at random",
+        "the people who lived in the fog near about a big big secret that nobody that lived outside of the fog shouldn't have known the people who got kidnapped where the sentence of the fog people but nobody knew that",
+        "In the shadow of rumors, fear grew,\n\"Is the next one kidnapped, me or you?\"",
+        "in search of answers a young boy ventured into the darkness in order to find the unknown he was wearing a mask for there is a rumor that wearing a mask would hide him from the fog and thus keep him safe from being kidnapped by the unknown",
+        "the young boy did not know about the danger it was about to encounter because they were just many things that were left unsaid about this Max that he just put on",
+        "\"Our journey begins, into the abyss.\"\n\"Can we unveil the fog's cryptic kiss?\"",
+        "India vs the boy found a map that included the locations of the unknown unbeknownst to the boy and everyone else until now the unknown is not a single entity but multiple with this information the boy decided to go back to the town to inform everyone else about this information",
+        "truth be told the townspeople finally told the young boy that the unknown came from a long generation of his family and because of that he had to leave the city and many many years later the unknown came back but in a new form because of there was a different generation"
+    ],
+    "agent_contributions": {
+        "sam": [
+            "In a town wrapped in mist,\nLived the Unknown, veiled in a crypt.",
+            "In the shadow of rumors, fear grew,\n\"Is the next one kidnapped, me or you?\"",
+            "\"Our journey begins, into the abyss.\"\n\"Can we unveil the fog's cryptic kiss?\""
+        ],
+        "mosuela": [
+            "not much was known about the unknown for it lived in a lot of fog it like to hide in the night and they're only known activity was kidnapping people seemingly at random",
+            "in search of answers a young boy ventured into the darkness in order to find the unknown he was wearing a mask for there is a rumor that wearing a mask would hide him from the fog and thus keep him safe from being kidnapped by the unknown",
+            "India vs the boy found a map that included the locations of the unknown unbeknownst to the boy and everyone else until now the unknown is not a single entity but multiple with this information the boy decided to go back to the town to inform everyone else about this information"
+        ],
+        "jess": [
+            "the people who lived in the fog near about a big big secret that nobody that lived outside of the fog shouldn't have known the people who got kidnapped where the sentence of the fog people but nobody knew that",
+            "the young boy did not know about the danger it was about to encounter because they were just many things that were left unsaid about this Max that he just put on",
+            "truth be told the townspeople finally told the young boy that the unknown came from a long generation of his family and because of that he had to leave the city and many many years later the unknown came back but in a new form because of there was a different generation"
+        ]
+    },
+    "agent_selected_words": {
+        "sam": [
+            "Unknown",
+            "Shadow",
+            "Journey"
+        ],
+        "mosuela": [
+            "Fog",
+            "Mask",
+            "Map"
+        ],
+        "jess": [
+            "Secret",
+            "Danger",
+            "Truth"
+        ]
+    },
+    "turns": [
+        "sam",
+        "mosuela",
+        "jess",
+        "sam",
+        "mosuela",
+        "jess",
+        "sam",
+        "mosuela",
+        "jess"
+    ],
+    "robot_predicted_words": {}
+}

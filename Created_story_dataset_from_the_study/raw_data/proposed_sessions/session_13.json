@@ -1,0 +1,84 @@
+{
+    "session_string": "pid_25:pid_26:proposed",
+    "story_start_time": 1728597694.8878326,
+    "story_end_time": 1728598106.1327224,
+    "total_time": 411.24488973617554,
+    "total_reward": 46.599999999999994,
+    "robot_theme": "fairy tale",
+    "participant_1_theme": "fairy tale",
+    "participant_2_theme": "fairy tale",
+    "words": [
+        "potion",
+        "dragon",
+        "Kindness",
+        "Wish",
+        "curse",
+        "castle",
+        "spell",
+        "magic",
+        "wizard"
+    ],
+    "story": [
+        "\"In a kingdom far, far away, a young prince discovered a magical lantern buried beneath the sand.\"",
+        "he quickly realized that the lantern was cursed as whenever it was lit a natural storm occurred",
+        "he lighted the lamp and by related the lamp by mistake and there was a natural storm that occurred and there was a dragon in front of him",
+        "\"In the dragon's claws, he spotted a vial of a radiant potion,\" the prince thought to himself. He realized this mystical concoction might have the power to unravel the curse, if only he knew the right incantation to combine with it.",
+        "sing the dragon the prince got scared and quickly ran to the castle",
+        "in the castle the prince called wizard in and asked him what he can do to get rid of the Dragon",
+        "\"The wizard, wise and old, knew well of the secret spell that might reverse the curse,\" said the prince, hope flickering in his eyes. \"But the potion and the spell required a very special incantation, something strong and heartfelt, brimming with unspoken desires ready to burst forth.\"",
+        "the wizard revealed the secret spell the prince wished that the new spell can be used to defeat the Dragon",
+        "trigger the dragon had no kindness he showed no kindness and he was killing people all around so the king quickly told the wizard to to cast a spell on the dragon and The Wizard did that and the dragon Was Defeated and voila victory"
+    ],
+    "agent_contributions": {
+        "sam": [
+            "\"In a kingdom far, far away, a young prince discovered a magical lantern buried beneath the sand.\"",
+            "\"In the dragon's claws, he spotted a vial of a radiant potion,\" the prince thought to himself. He realized this mystical concoction might have the power to unravel the curse, if only he knew the right incantation to combine with it.",
+            "\"The wizard, wise and old, knew well of the secret spell that might reverse the curse,\" said the prince, hope flickering in his eyes. \"But the potion and the spell required a very special incantation, something strong and heartfelt, brimming with unspoken desires ready to burst forth.\""
+        ],
+        "afsara": [
+            "he quickly realized that the lantern was cursed as whenever it was lit a natural storm occurred",
+            "sing the dragon the prince got scared and quickly ran to the castle",
+            "the wizard revealed the secret spell the prince wished that the new spell can be used to defeat the Dragon"
+        ],
+        "shreejeet": [
+            "he lighted the lamp and by related the lamp by mistake and there was a natural storm that occurred and there was a dragon in front of him",
+            "in the castle the prince called wizard in and asked him what he can do to get rid of the Dragon",
+            "trigger the dragon had no kindness he showed no kindness and he was killing people all around so the king quickly told the wizard to to cast a spell on the dragon and The Wizard did that and the dragon Was Defeated and voila victory"
+        ]
+    },
+    "agent_selected_words": {
+        "sam": [
+            "magic",
+            "potion",
+            "spell"
+        ],
+        "afsara": [
+            "curse",
+            "castle",
+            "Wish"
+        ],
+        "shreejeet": [
+            "dragon",
+            "wizard",
+            "Kindness"
+        ]
+    },
+    "turns": [
+        "sam",
+        "afsara",
+        "shreejeet",
+        "sam",
+        "afsara",
+        "shreejeet",
+        "sam",
+        "afsara",
+        "shreejeet"
+    ],
+    "robot_predicted_words": {
+        "afsara": [
+            "Wish",
+            "spell",
+            "Wish"
+        ]
+    }
+}

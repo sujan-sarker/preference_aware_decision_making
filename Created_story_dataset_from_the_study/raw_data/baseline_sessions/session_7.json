@@ -1,0 +1,78 @@
+{
+    "session_string": "pid_13:pid_14:baseline",
+    "story_start_time": 1728522971.3657308,
+    "story_end_time": 1728523676.395713,
+    "total_time": 705.0299823284149,
+    "total_reward": 49.199999999999996,
+    "robot_theme": "adventure",
+    "participant_1_theme": "adventure",
+    "participant_2_theme": "adventure",
+    "words": [
+        "Discover",
+        "Map",
+        "Island",
+        "Journey",
+        "Danger",
+        "Mountain",
+        "Unknown",
+        "Treasure",
+        "Explore"
+    ],
+    "story": [
+        "In a world untouched, two friends dared to explore. Their hearts full of bold curiosity.",
+        "so those two friends thought they would go for treasure hunting and decided and unknown Island and that should be a journey by maybe boat or something like that and they started their Journey on a sunny day and while packing their boat with everything they would need for their adventurous journey and it would be like a 48 Hours of boat journey to reach the island they also took a printed map of the island that they would look for the treasure and then they decided they actually forgot their food in the home so they actually had nothing to eat so they have to stop by somewhere else and they have to find",
+        "and there was more to their journey in their journey and there is finding food at the already started their boys to the Sea and suddenly the weather turned bad the storm was closing to their boat and the water was Rising so like Mountain so they are really true they were afraid if they have made the decision how can this storm so suddenly this or something like that black structure in the far away so that if we can reach to that old structure they can hold something like that",
+        "Amidst the chaos, they discover\nan old, forsaken cabin in the woods.",
+        "so that old cabin was in an island and they started going towards that island and as they were getting closer they suddenly realized there are some lights there so it could be potentially dangerous to go there",
+        "so they're thinking if they are in the right way they should go back the way they have come sudden they realize there's nothing else but Mountain on their back and suddenly the door of the cabin opened and a really scary looking guy came out with a stick with hand they thought potentially it is a black magician",
+        "\"Danger lurks,\" the man hissed, his eyes glinting ominously.\nThey gulped, now aware of their precarious predicament.",
+        "then the two friends open their map and they try to search and look for if there is any place that they can consider a safe but unfortunately it was not so they have to brace their future and they decided to face the fate and go and talk to that scary man there",
+        "so what do you think of decision to talk to the scream and their one of the friend thought why don't you look into the map if there is something unknown might be hidden so they start running in the back the way they have come and if there is something like that maybe I'm going to the map but it should be and suddenly they saw something dark always something like that in the inside of the mountain it is something to hold at least out to the other side of the island and the phone already has been finished so they started that again"
+    ],
+    "agent_contributions": {
+        "sam": [
+            "In a world untouched, two friends dared to explore. Their hearts full of bold curiosity.",
+            "Amidst the chaos, they discover\nan old, forsaken cabin in the woods.",
+            "\"Danger lurks,\" the man hissed, his eyes glinting ominously.\nThey gulped, now aware of their precarious predicament."
+        ],
+        "jack": [
+            "so those two friends thought they would go for treasure hunting and decided and unknown Island and that should be a journey by maybe boat or something like that and they started their Journey on a sunny day and while packing their boat with everything they would need for their adventurous journey and it would be like a 48 Hours of boat journey to reach the island they also took a printed map of the island that they would look for the treasure and then they decided they actually forgot their food in the home so they actually had nothing to eat so they have to stop by somewhere else and they have to find",
+            "so that old cabin was in an island and they started going towards that island and as they were getting closer they suddenly realized there are some lights there so it could be potentially dangerous to go there",
+            "then the two friends open their map and they try to search and look for if there is any place that they can consider a safe but unfortunately it was not so they have to brace their future and they decided to face the fate and go and talk to that scary man there"
+        ],
+        "skywalker": [
+            "and there was more to their journey in their journey and there is finding food at the already started their boys to the Sea and suddenly the weather turned bad the storm was closing to their boat and the water was Rising so like Mountain so they are really true they were afraid if they have made the decision how can this storm so suddenly this or something like that black structure in the far away so that if we can reach to that old structure they can hold something like that",
+            "so they're thinking if they are in the right way they should go back the way they have come sudden they realize there's nothing else but Mountain on their back and suddenly the door of the cabin opened and a really scary looking guy came out with a stick with hand they thought potentially it is a black magician",
+            "so what do you think of decision to talk to the scream and their one of the friend thought why don't you look into the map if there is something unknown might be hidden so they start running in the back the way they have come and if there is something like that maybe I'm going to the map but it should be and suddenly they saw something dark always something like that in the inside of the mountain it is something to hold at least out to the other side of the island and the phone already has been finished so they started that again"
+        ]
+    },
+    "agent_selected_words": {
+        "sam": [
+            "Explore",
+            "Discover",
+            "Danger"
+        ],
+        "jack": [
+            "Treasure",
+            "Island",
+            "Map"
+        ],
+        "skywalker": [
+            "Journey",
+            "Mountain",
+            "Unknown"
+        ]
+    },
+    "turns": [
+        "sam",
+        "jack",
+        "skywalker",
+        "sam",
+        "jack",
+        "skywalker",
+        "sam",
+        "jack",
+        "skywalker"
+    ],
+    "robot_predicted_words": {}
+}

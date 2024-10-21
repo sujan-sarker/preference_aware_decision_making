@@ -1,0 +1,84 @@
+{
+    "session_string": "pid_13:pid_14:proposed",
+    "story_start_time": 1728524242.8840184,
+    "story_end_time": 1728524848.5660255,
+    "total_time": 605.6820070743561,
+    "total_reward": 41.4,
+    "robot_theme": "fairy tale",
+    "participant_1_theme": "adventure",
+    "participant_2_theme": "mystery",
+    "words": [
+        "Shadow",
+        "Mountain",
+        "Puzzle",
+        "Wish",
+        "castle",
+        "spell",
+        "Secret",
+        "Question",
+        "magic"
+    ],
+    "story": [
+        "In a realm brimming with magic, a young princess had a burning question. \"What gift did the witch weave into my golden locket?\" she pondered.",
+        "so she thought what is the secret inside a golden locket to know that secret he went to his dad I mean the king and told him to open the locket but the king could not open it himself he actually gave it to someone else to open the locket",
+        "so that person came and opened with some kind of spell that the princess didn't hurt before she wondered what is he he was babbling about after that are the the man who was actually with wizard was like yeah you can't hear you should be careful about this locket because it only dangerous and mysterious element that you should be should we shouldn't be thinking about",
+        "Overwhelmed by the new revelation, she sought solitude in the castle's highest tower. She gazed upon an old tapestry, depicting a familiar enchantress weaving spells, its threads pulsating with an unseen force.",
+        "as soon as she gets up on the tapestry she saw from the Thai store a big spell of smoke that was coming behind the mountain that is some sort of distance from the castle and then the princess was very curious like what did they spelled it to that mountain because that is not there and she thought she should really go after that",
+        "after that she started running behind that running for the smoke but it was never ending wrong because it was like a mirage that you can catch sorry that there was there appeared as Mr Shadow which she didn't expect and that shadow said I forwarded you to open the lock but you did it anyway so now suffer the consequences",
+        "With a deep breath, she unraveled the tapestry threads, revealing a hidden puzzle within. \"An intricate dance of secret symbols and enchanted emblems,\" she murmured, determination gleaming in her eyes.",
+        "so as soon as she unravel the tapestry trade and so all these she thought she should really learn those magic spells so she could do anything that she wants and then she went back to the castle instead of chasing the smoke but the shadow didn't actually leave her he also followed her to ask the castle",
+        "so she took the risk and opened the locate locket and said go away you devil man and wish came true suddenly a beam of light came into that area surrounding her and that she just went to mysteriously"
+    ],
+    "agent_contributions": {
+        "sam": [
+            "In a realm brimming with magic, a young princess had a burning question. \"What gift did the witch weave into my golden locket?\" she pondered.",
+            "Overwhelmed by the new revelation, she sought solitude in the castle's highest tower. She gazed upon an old tapestry, depicting a familiar enchantress weaving spells, its threads pulsating with an unseen force.",
+            "With a deep breath, she unraveled the tapestry threads, revealing a hidden puzzle within. \"An intricate dance of secret symbols and enchanted emblems,\" she murmured, determination gleaming in her eyes."
+        ],
+        "kory": [
+            "so she thought what is the secret inside a golden locket to know that secret he went to his dad I mean the king and told him to open the locket but the king could not open it himself he actually gave it to someone else to open the locket",
+            "as soon as she gets up on the tapestry she saw from the Thai store a big spell of smoke that was coming behind the mountain that is some sort of distance from the castle and then the princess was very curious like what did they spelled it to that mountain because that is not there and she thought she should really go after that",
+            "so as soon as she unravel the tapestry trade and so all these she thought she should really learn those magic spells so she could do anything that she wants and then she went back to the castle instead of chasing the smoke but the shadow didn't actually leave her he also followed her to ask the castle"
+        ],
+        "sky": [
+            "so that person came and opened with some kind of spell that the princess didn't hurt before she wondered what is he he was babbling about after that are the the man who was actually with wizard was like yeah you can't hear you should be careful about this locket because it only dangerous and mysterious element that you should be should we shouldn't be thinking about",
+            "after that she started running behind that running for the smoke but it was never ending wrong because it was like a mirage that you can catch sorry that there was there appeared as Mr Shadow which she didn't expect and that shadow said I forwarded you to open the lock but you did it anyway so now suffer the consequences",
+            "so she took the risk and opened the locate locket and said go away you devil man and wish came true suddenly a beam of light came into that area surrounding her and that she just went to mysteriously"
+        ]
+    },
+    "agent_selected_words": {
+        "sam": [
+            "Question",
+            "castle",
+            "Puzzle"
+        ],
+        "kory": [
+            "Secret",
+            "Mountain",
+            "magic"
+        ],
+        "sky": [
+            "spell",
+            "Shadow",
+            "Wish"
+        ]
+    },
+    "turns": [
+        "sam",
+        "kory",
+        "sky",
+        "sam",
+        "kory",
+        "sky",
+        "sam",
+        "kory",
+        "sky"
+    ],
+    "robot_predicted_words": {
+        "kory": [
+            "Puzzle",
+            "magic",
+            "magic"
+        ]
+    }
+}

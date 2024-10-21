@@ -1,0 +1,84 @@
+{
+    "session_string": "pid_16:pid_15:proposed",
+    "story_start_time": 1728567320.7331183,
+    "story_end_time": 1728567917.3231566,
+    "total_time": 596.5900382995605,
+    "total_reward": 41.8,
+    "robot_theme": "adventure",
+    "participant_1_theme": "adventure",
+    "participant_2_theme": "adventure",
+    "words": [
+        "Treasure",
+        "Map",
+        "Journey",
+        "Wild",
+        "Discover",
+        "Island",
+        "Mountain",
+        "Explore",
+        "Forest"
+    ],
+    "story": [
+        "Our brave adventurer, Ellie, began her exciting journey, starting deep in the heart of the lush forest. She carefully navigated through the thick foliage, eyes keenly fixed on the towering form of nature in the distance, its peak lost in swirling mists.",
+        "she needs a map to find the gold mines and for finding this treasure she is looking for a specific tree with a specific leaves",
+        "she decided it would be easiest to find this tree if she moved to the top of the mountain in the distance so she can get a better View",
+        "As Ellie reached the summit, her breath caught in her chest. From her elevated vantage point, she could uncover the dense forest's secrets, the verdant array of green breaking up into individual trees. The glimmer of several peculiar leaves drew her attention. Her heart pounded in excitement; she had discovered the tree she sought. But she knew it was not the end, but the start of a new phase in her quest for the gold mines. The unique pattern hinted that there's more to examine, more paths hidden in the green abyss below. To reach her goal, she required not just a bird's eye view, but a beetle\u2019s perspective too. Her journey was far from over; the real adventure was about to begin.",
+        "she continued her journey toward the island where the tree was and during this journey she follows the sunset and the stars the pole star during the journey",
+        "has she sailed towards the island the waves started getting more intense and in a panic she threw some of the stuff overboard including the map",
+        "With a sigh, Ellie began to explore the starlit beach, the distant roars of unknown creatures echoing through the air. Undeterred, she ventured further into the undergrowth, embracing her thirst for the untamed. Decoding the earth beneath her and the whispers of the cool sea breeze, she prepared for the next leg of her journey, which promised to be just as thrilling as it was daunting.",
+        "after arriving to the island she found out where the trees but there was some problems there were some wild animals around but suddenly",
+        "two large claws grabbed on her shirt and pulled her into the air away from the island and although she had to give up her quest for Treasure more Adventure was on the horizon"
+    ],
+    "agent_contributions": {
+        "sam": [
+            "Our brave adventurer, Ellie, began her exciting journey, starting deep in the heart of the lush forest. She carefully navigated through the thick foliage, eyes keenly fixed on the towering form of nature in the distance, its peak lost in swirling mists.",
+            "As Ellie reached the summit, her breath caught in her chest. From her elevated vantage point, she could uncover the dense forest's secrets, the verdant array of green breaking up into individual trees. The glimmer of several peculiar leaves drew her attention. Her heart pounded in excitement; she had discovered the tree she sought. But she knew it was not the end, but the start of a new phase in her quest for the gold mines. The unique pattern hinted that there's more to examine, more paths hidden in the green abyss below. To reach her goal, she required not just a bird's eye view, but a beetle\u2019s perspective too. Her journey was far from over; the real adventure was about to begin.",
+            "With a sigh, Ellie began to explore the starlit beach, the distant roars of unknown creatures echoing through the air. Undeterred, she ventured further into the undergrowth, embracing her thirst for the untamed. Decoding the earth beneath her and the whispers of the cool sea breeze, she prepared for the next leg of her journey, which promised to be just as thrilling as it was daunting."
+        ],
+        "reza": [
+            "she needs a map to find the gold mines and for finding this treasure she is looking for a specific tree with a specific leaves",
+            "she continued her journey toward the island where the tree was and during this journey she follows the sunset and the stars the pole star during the journey",
+            "after arriving to the island she found out where the trees but there was some problems there were some wild animals around but suddenly"
+        ],
+        "holly": [
+            "she decided it would be easiest to find this tree if she moved to the top of the mountain in the distance so she can get a better View",
+            "has she sailed towards the island the waves started getting more intense and in a panic she threw some of the stuff overboard including the map",
+            "two large claws grabbed on her shirt and pulled her into the air away from the island and although she had to give up her quest for Treasure more Adventure was on the horizon"
+        ]
+    },
+    "agent_selected_words": {
+        "sam": [
+            "Forest",
+            "Discover",
+            "Explore"
+        ],
+        "reza": [
+            "Map",
+            "Journey",
+            "Wild"
+        ],
+        "holly": [
+            "Mountain",
+            "Island",
+            "Treasure"
+        ]
+    },
+    "turns": [
+        "sam",
+        "reza",
+        "holly",
+        "sam",
+        "reza",
+        "holly",
+        "sam",
+        "reza",
+        "holly"
+    ],
+    "robot_predicted_words": {
+        "reza": [
+            "Mountain",
+            "Explore",
+            "Wild"
+        ]
+    }
+}

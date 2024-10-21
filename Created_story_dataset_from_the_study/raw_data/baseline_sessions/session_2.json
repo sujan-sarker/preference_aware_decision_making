@@ -1,0 +1,78 @@
+{
+    "session_string": "pid_4:pid_3:baseline",
+    "story_start_time": 1728499715.7119958,
+    "story_end_time": 1728500268.42262,
+    "total_time": 552.7106242179871,
+    "total_reward": 51.800000000000004,
+    "robot_theme": "mystery",
+    "participant_1_theme": "mystery",
+    "participant_2_theme": "adventure",
+    "words": [
+        "Journey",
+        "Unknown",
+        "Wild",
+        "Riddle",
+        "Ancient",
+        "Island",
+        "Treasure",
+        "Solve",
+        "Answer"
+    ],
+    "story": [
+        "In the town of Serenity,\nMysterious 'Unknown' letters appear.",
+        "these letters have been coming in from ancient times nobody knows who they are from or to whom they belong but they keep coming",
+        "the letters appear in the form of Engravings on the stones at the island who does this Engravings is not known yet but the down people keep looking for who does it",
+        "\"The Riddle of the Stones,\" they called it.\nA cryptic challenge that baffled the town.",
+        "usually the letters contains symbols that had no meaning but then one day A letter came that had things written on it which could be read the message said it was still too hard for people to actually read what was there because it was very very tiny but people knew that solving this could lead to Treasure",
+        "there were two simultaneous Mysteries the townspeople were trying to solve one what the messages meant and to where they came from they did not realize which one of the Mysteries was more worth solving",
+        "\"A journey to unravel truths,\" \nsaid the mayor, rallying the town.\n\"The letters, a map between roots.\"",
+        "many decades passed but the riddles were not sold as days went by people grew more and more tired of this riddle at the same time the the mayor kept spending more and more tax money to address the situation but this was never solved so one day all the people got extremely angry and decided to get rid of the mayor they all went into his office and said enough with this nonsense next time the letters are delivered we will catch the postman and ask that person to never into this town again",
+        "with the mirror now gone the letters stop showing up and so the answer is simple it was the mayor hiding those letters around the island and using the tax money for personal use making it look like it was for the riddle of the stones"
+    ],
+    "agent_contributions": {
+        "sam": [
+            "In the town of Serenity,\nMysterious 'Unknown' letters appear.",
+            "\"The Riddle of the Stones,\" they called it.\nA cryptic challenge that baffled the town.",
+            "\"A journey to unravel truths,\" \nsaid the mayor, rallying the town.\n\"The letters, a map between roots.\""
+        ],
+        "aj": [
+            "these letters have been coming in from ancient times nobody knows who they are from or to whom they belong but they keep coming",
+            "usually the letters contains symbols that had no meaning but then one day A letter came that had things written on it which could be read the message said it was still too hard for people to actually read what was there because it was very very tiny but people knew that solving this could lead to Treasure",
+            "many decades passed but the riddles were not sold as days went by people grew more and more tired of this riddle at the same time the the mayor kept spending more and more tax money to address the situation but this was never solved so one day all the people got extremely angry and decided to get rid of the mayor they all went into his office and said enough with this nonsense next time the letters are delivered we will catch the postman and ask that person to never into this town again"
+        ],
+        "tz": [
+            "the letters appear in the form of Engravings on the stones at the island who does this Engravings is not known yet but the down people keep looking for who does it",
+            "there were two simultaneous Mysteries the townspeople were trying to solve one what the messages meant and to where they came from they did not realize which one of the Mysteries was more worth solving",
+            "with the mirror now gone the letters stop showing up and so the answer is simple it was the mayor hiding those letters around the island and using the tax money for personal use making it look like it was for the riddle of the stones"
+        ]
+    },
+    "agent_selected_words": {
+        "sam": [
+            "Unknown",
+            "Riddle",
+            "Journey"
+        ],
+        "aj": [
+            "Ancient",
+            "Treasure",
+            "Wild"
+        ],
+        "tz": [
+            "Island",
+            "Solve",
+            "Answer"
+        ]
+    },
+    "turns": [
+        "sam",
+        "aj",
+        "tz",
+        "sam",
+        "aj",
+        "tz",
+        "sam",
+        "aj",
+        "tz"
+    ],
+    "robot_predicted_words": {}
+}

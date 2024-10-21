@@ -1,0 +1,84 @@
+{
+    "session_string": "pid_8:pid_7:proposed",
+    "story_start_time": 1728509043.2457693,
+    "story_end_time": 1728509968.137077,
+    "total_time": 924.8913078308105,
+    "total_reward": 55.400000000000006,
+    "robot_theme": "adventure",
+    "participant_1_theme": "adventure",
+    "participant_2_theme": "fairy tale",
+    "words": [
+        "magic",
+        "curse",
+        "Unknown",
+        "Discover",
+        "Love",
+        "Island",
+        "wizard",
+        "Ancient",
+        "Wood"
+    ],
+    "story": [
+        "Eager archaeologist Lola was planning to discover an anticipated treasure deep within the Amazon forest. She geared up, filled with insatiable curiosity and the thrill of coming face to face with the unexpected.",
+        "she found She Came Upon a rock which had some engraving it looked ancient it looked mysterious and it had a weird Jewel attached to it",
+        "Lolo is very curious about the jewel so she touched it and suddenly she felt that she was very lightweight then she thought okay I will just leave the place now and then I will again come back here but then she understood that she couldn't move suddenly she found some noise she heard that some people are saying that oh my God someone again got cursed",
+        "Suddenly, Lola noticed a small, wooden box hidden underneath some leaves. Inside, she found a detailed map leading to a distant locale, surrounded by water everywhere. The boxed treasure's location pulled her deeper into intrigue, as it was distinctly separate from the mainland.",
+        "upon thinking further Lola found that it was the Caribbean islands where the map pointer to all she had to do was buy a boat or rent a boat and go there upon reaching the island strange things started happening with her",
+        "don't let it started to walk and suddenly she feels that someone is working also behind her then she was trying to find like who was behind her but At first she couldn't spot then suddenly she found a very little person then she was like okay I found you don't hide behind me who are you the person said okay so I'm a wizard and I think you have already understood that you are cursed LOL I said most probably even know how I can bring I know but I don't tell you because that's the game you have to find it but I can help you after giving you some hints",
+        "\"The wizard, seeing Lola's determination, offered her aid with a twinkle in his eyes. He whispered ancient words and waved his staff, manifesting a mystical aura around her. Suddenly, she felt a pleading pull from the enchanted jewel, similar to an echo of an old emotional bond that yearned for reunion.\"",
+        "the pool was so strong it felt like someone a Lola loud calling her she could hear voices of her loved ones and as soon as the Wizards ended his spell she started to feel somewhat better",
+        "so after this Laura Neal that now she's got free she looked around and saw that there was an onion bird it was singing the environment was really nice the weather was very clear and she felt very happy that she could get rid of the cars"
+    ],
+    "agent_contributions": {
+        "sam": [
+            "Eager archaeologist Lola was planning to discover an anticipated treasure deep within the Amazon forest. She geared up, filled with insatiable curiosity and the thrill of coming face to face with the unexpected.",
+            "Suddenly, Lola noticed a small, wooden box hidden underneath some leaves. Inside, she found a detailed map leading to a distant locale, surrounded by water everywhere. The boxed treasure's location pulled her deeper into intrigue, as it was distinctly separate from the mainland.",
+            "\"The wizard, seeing Lola's determination, offered her aid with a twinkle in his eyes. He whispered ancient words and waved his staff, manifesting a mystical aura around her. Suddenly, she felt a pleading pull from the enchanted jewel, similar to an echo of an old emotional bond that yearned for reunion.\""
+        ],
+        "omkar": [
+            "she found She Came Upon a rock which had some engraving it looked ancient it looked mysterious and it had a weird Jewel attached to it",
+            "upon thinking further Lola found that it was the Caribbean islands where the map pointer to all she had to do was buy a boat or rent a boat and go there upon reaching the island strange things started happening with her",
+            "the pool was so strong it felt like someone a Lola loud calling her she could hear voices of her loved ones and as soon as the Wizards ended his spell she started to feel somewhat better"
+        ],
+        "ali": [
+            "Lolo is very curious about the jewel so she touched it and suddenly she felt that she was very lightweight then she thought okay I will just leave the place now and then I will again come back here but then she understood that she couldn't move suddenly she found some noise she heard that some people are saying that oh my God someone again got cursed",
+            "don't let it started to walk and suddenly she feels that someone is working also behind her then she was trying to find like who was behind her but At first she couldn't spot then suddenly she found a very little person then she was like okay I found you don't hide behind me who are you the person said okay so I'm a wizard and I think you have already understood that you are cursed LOL I said most probably even know how I can bring I know but I don't tell you because that's the game you have to find it but I can help you after giving you some hints",
+            "so after this Laura Neal that now she's got free she looked around and saw that there was an onion bird it was singing the environment was really nice the weather was very clear and she felt very happy that she could get rid of the cars"
+        ]
+    },
+    "agent_selected_words": {
+        "sam": [
+            "Discover",
+            "Wood",
+            "magic"
+        ],
+        "omkar": [
+            "Ancient",
+            "Island",
+            "Love"
+        ],
+        "ali": [
+            "curse",
+            "wizard",
+            "Unknown"
+        ]
+    },
+    "turns": [
+        "sam",
+        "omkar",
+        "ali",
+        "sam",
+        "omkar",
+        "ali",
+        "sam",
+        "omkar",
+        "ali"
+    ],
+    "robot_predicted_words": {
+        "omkar": [
+            "Unknown",
+            "Island",
+            "Love"
+        ]
+    }
+}

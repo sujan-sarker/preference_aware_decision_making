@@ -1,0 +1,84 @@
+{
+    "session_string": "pid_35:pid_36:proposed",
+    "story_start_time": 1728671156.5101295,
+    "story_end_time": 1728671622.8502364,
+    "total_time": 466.3401069641113,
+    "total_reward": 45.2,
+    "robot_theme": "adventure",
+    "participant_1_theme": "mystery",
+    "participant_2_theme": "adventure",
+    "words": [
+        "Strange",
+        "Explore",
+        "Shadow",
+        "Map",
+        "Mask",
+        "Solve",
+        "Truth",
+        "Puzzle",
+        "Wild"
+    ],
+    "story": [
+        "In an ancient city, Jake found a cryptic Puzzle. A secret engraved, a mystery formed.",
+        "through solving the cryptic puzzle Jake was able to determine that it was actually a map to a lost city further away buried for many millennia",
+        "to further solve the puzzle we I mean Jack he decided to like Explorer the lost city and follow the map and found it very beautiful in trains",
+        "In the heart of the city, Jake decided to delve deeper and explore. Ignoring the cobwebs, dust, and silence, he ventured into the unknown. He hoped that in exploring, he would uncover something fundamental, a hidden reality, maybe.",
+        "as Jake delve deeper and deeper into the lost city he came across a mask on a pedestal it was ornate covered in gold and jewels and carvings of a nature he's not understand but which matched that of the puzzle he had first found",
+        "Jack was also found a very strange thing which looks like it looks like a round shape of ball and it was Dusty a bit but he couldn't comprehend like what it could be",
+        "\"Braving on, Jake touched the golden mask. Instantly, a Truth, an ancient prophecy unfurled in his mind, of a city engulfed in darkness, of an eternal entity protecting the city. He knew that his adventure had only just begun.\"",
+        "as quickly as the vision started it passed wicking away like a shadow and candlelights Jake knew that though the internal entity protecting the city have once existed it had long since gone off to the great beyond",
+        "NJ tried to try to complete his wild journey by solving this puzzle and and who knows maybe he could solve it or not"
+    ],
+    "agent_contributions": {
+        "sam": [
+            "In an ancient city, Jake found a cryptic Puzzle. A secret engraved, a mystery formed.",
+            "In the heart of the city, Jake decided to delve deeper and explore. Ignoring the cobwebs, dust, and silence, he ventured into the unknown. He hoped that in exploring, he would uncover something fundamental, a hidden reality, maybe.",
+            "\"Braving on, Jake touched the golden mask. Instantly, a Truth, an ancient prophecy unfurled in his mind, of a city engulfed in darkness, of an eternal entity protecting the city. He knew that his adventure had only just begun.\""
+        ],
+        "paxton": [
+            "through solving the cryptic puzzle Jake was able to determine that it was actually a map to a lost city further away buried for many millennia",
+            "as Jake delve deeper and deeper into the lost city he came across a mask on a pedestal it was ornate covered in gold and jewels and carvings of a nature he's not understand but which matched that of the puzzle he had first found",
+            "as quickly as the vision started it passed wicking away like a shadow and candlelights Jake knew that though the internal entity protecting the city have once existed it had long since gone off to the great beyond"
+        ],
+        "ariful": [
+            "to further solve the puzzle we I mean Jack he decided to like Explorer the lost city and follow the map and found it very beautiful in trains",
+            "Jack was also found a very strange thing which looks like it looks like a round shape of ball and it was Dusty a bit but he couldn't comprehend like what it could be",
+            "NJ tried to try to complete his wild journey by solving this puzzle and and who knows maybe he could solve it or not"
+        ]
+    },
+    "agent_selected_words": {
+        "sam": [
+            "Puzzle",
+            "Explore",
+            "Truth"
+        ],
+        "paxton": [
+            "Map",
+            "Mask",
+            "Shadow"
+        ],
+        "ariful": [
+            "Solve",
+            "Strange",
+            "Wild"
+        ]
+    },
+    "turns": [
+        "sam",
+        "paxton",
+        "ariful",
+        "sam",
+        "paxton",
+        "ariful",
+        "sam",
+        "paxton",
+        "ariful"
+    ],
+    "robot_predicted_words": {
+        "paxton": [
+            "Truth",
+            "Truth",
+            "Shadow"
+        ]
+    }
+}

@@ -1,0 +1,84 @@
+{
+    "session_string": "pid_30:pid_29:proposed",
+    "story_start_time": 1728655623.6287897,
+    "story_end_time": 1728656048.8125923,
+    "total_time": 425.1838026046753,
+    "total_reward": 54.6,
+    "robot_theme": "fairy tale",
+    "participant_1_theme": "fairy tale",
+    "participant_2_theme": "teamwork",
+    "words": [
+        "potion",
+        "Partner",
+        "Agree",
+        "Help",
+        "spell",
+        "Together",
+        "Collaborate",
+        "magic",
+        "wizard"
+    ],
+    "story": [
+        "\"In a land timeless and distant, a curious little gnome tinkered tirelessly with a mystic potion. But alas, he struggled with the last secret ingredient, an echo of clandestine whispers only carried on the twilight wind.\"",
+        "the no knew that he could only find the echo of clandestine The Whispers carried on the Twilight wind from a mythical wizard in a land far from The Gnome Village unfortunately in between The Gnome Village and the wizard was various treacherous perils that required multiple people to overcome",
+        "he had a very serious conversation with himself and he knew he had to collaborate with other people in order to get over to the village and the medical wizard",
+        "So, the gnome tapped into the ancient spell of the Whispering Winds he had learned, hoping to reach and gather the bravest from his village. The magical wind wafted through the gnome homes, its gentle rustle asking them an unspoken query - standing alone they might falter, but together could they not conquer all odds?",
+        "gnomes from all over the village heard the Gnomes call and they said that they would partner with the gnome to find the mythical wizard as a group they faced many challenges from Bridges over lava to malicious Orcs but they were able to surpass them all",
+        "but they forgot about the magical wind storm of the Twilight wind and when it came upon them they did not know what to do",
+        "\"Fear not!\" cried the gnome, wringing his hands. \"We've come so far. In unity, dear companions, remember our vow?\" With hope in his eyes, he offered his hand, \"Stand with me. We shall seek help from this storm, not fly from it!\" A murmur rippled through the gnome horde, their eyes flickering with the realization that their unity was their greatest strength. The question now was, would they stick by their promise, through perils unforeseen?",
+        "they huddled together in order to protect each other from the storm suddenly from the sky came the mythical wizard the in truth the mythical wizard is watching them the entire time making sure that only gnomes of good character would receive the echo of clandestine Whispers the mythical wizard decided to give the Gnomes the echo of clandestine Whispers that they sought after because they portrayed such good values and morals",
+        "what number was very bad character push past all the Gnomes and came up to the mystical Wizard and he said did we not agree to share to share anything we got from this journey"
+    ],
+    "agent_contributions": {
+        "sam": [
+            "\"In a land timeless and distant, a curious little gnome tinkered tirelessly with a mystic potion. But alas, he struggled with the last secret ingredient, an echo of clandestine whispers only carried on the twilight wind.\"",
+            "So, the gnome tapped into the ancient spell of the Whispering Winds he had learned, hoping to reach and gather the bravest from his village. The magical wind wafted through the gnome homes, its gentle rustle asking them an unspoken query - standing alone they might falter, but together could they not conquer all odds?",
+            "\"Fear not!\" cried the gnome, wringing his hands. \"We've come so far. In unity, dear companions, remember our vow?\" With hope in his eyes, he offered his hand, \"Stand with me. We shall seek help from this storm, not fly from it!\" A murmur rippled through the gnome horde, their eyes flickering with the realization that their unity was their greatest strength. The question now was, would they stick by their promise, through perils unforeseen?"
+        ],
+        "mosuela": [
+            "the no knew that he could only find the echo of clandestine The Whispers carried on the Twilight wind from a mythical wizard in a land far from The Gnome Village unfortunately in between The Gnome Village and the wizard was various treacherous perils that required multiple people to overcome",
+            "gnomes from all over the village heard the Gnomes call and they said that they would partner with the gnome to find the mythical wizard as a group they faced many challenges from Bridges over lava to malicious Orcs but they were able to surpass them all",
+            "they huddled together in order to protect each other from the storm suddenly from the sky came the mythical wizard the in truth the mythical wizard is watching them the entire time making sure that only gnomes of good character would receive the echo of clandestine Whispers the mythical wizard decided to give the Gnomes the echo of clandestine Whispers that they sought after because they portrayed such good values and morals"
+        ],
+        "jess": [
+            "he had a very serious conversation with himself and he knew he had to collaborate with other people in order to get over to the village and the medical wizard",
+            "but they forgot about the magical wind storm of the Twilight wind and when it came upon them they did not know what to do",
+            "what number was very bad character push past all the Gnomes and came up to the mystical Wizard and he said did we not agree to share to share anything we got from this journey"
+        ]
+    },
+    "agent_selected_words": {
+        "sam": [
+            "potion",
+            "spell",
+            "Help"
+        ],
+        "mosuela": [
+            "wizard",
+            "Partner",
+            "Together"
+        ],
+        "jess": [
+            "Collaborate",
+            "magic",
+            "Agree"
+        ]
+    },
+    "turns": [
+        "sam",
+        "mosuela",
+        "jess",
+        "sam",
+        "mosuela",
+        "jess",
+        "sam",
+        "mosuela",
+        "jess"
+    ],
+    "robot_predicted_words": {
+        "mosuela": [
+            "spell",
+            "Agree",
+            "Agree"
+        ]
+    }
+}

@@ -1,0 +1,84 @@
+{
+    "session_string": "pid_28:pid_27:proposed",
+    "story_start_time": 1728601657.5092595,
+    "story_end_time": 1728602081.568381,
+    "total_time": 424.05912160873413,
+    "total_reward": 44.0,
+    "robot_theme": "fairy tale",
+    "participant_1_theme": "adventure",
+    "participant_2_theme": "mystery",
+    "words": [
+        "Danger",
+        "Mask",
+        "magic",
+        "spell",
+        "Clue",
+        "Question",
+        "Journey",
+        "Strange",
+        "Mountain"
+    ],
+    "story": [
+        "\"In the heart of a forgotten kingdom, a sense of danger lingered incessantly.\" The assistant narrates, \"The lands had an uncanny aura, not quite normal, and the citizens were increasingly anxious.\"",
+        "there was an ancient magic that cursed the land and its was making a return after 100 years to kill the citizens",
+        "unknown to the citizens their lay in ancient evil mask hidden in the city's catacombs very few knew what evil Powers it possessed and even fewer knew how to stop it",
+        "Deep within the cryptic catacombs, lived an age-old sorcerer, weaving a powerful spell. Guided not by light, but by the unique markings etched on the walls, patterns that genius minds considered enigmatic.",
+        "a curious young boy decided to go and investigate the markings on the wall so that he could get a clue to how to save the Kingdom from the dark magic",
+        "in order to get here he had made a tremendous Journey passing through many a desert oceans mountains he had to face many difficulties in order to get here but maybe he had a chance to stop the evil in the city",
+        "\"The ancient markings led the boy to a strange room, laden with peculiar objects. Expectation and puzzle haunted his expressions as he maneuvered amidst the shadows. Could this mysterious place hold the solution to the kingdom's impending doom?\"",
+        "the boy made it to the room and found the evil mask it asked him three tricky questions and he was able to solve these questions to save the village",
+        "after he answered the three dastardly riddles posed by the mask only one question Remain the last asked him if he could make the journey up the Mountain of Gods and deliver the mask to the almighty Zeus the boy confident in his abilities said of course I can do that and grab the mask brought it with him and made the wrong track up Mount Olympus at last he came to the pantheon of gods face with the insurmountable task of crossing the barrier that separated he tried everything he could use the hammer he punched at it I asked he only had one thing left to try and that was to Adorn The Mask after this we don't know what happened but it's safe to say nothing good"
+    ],
+    "agent_contributions": {
+        "sam": [
+            "\"In the heart of a forgotten kingdom, a sense of danger lingered incessantly.\" The assistant narrates, \"The lands had an uncanny aura, not quite normal, and the citizens were increasingly anxious.\"",
+            "Deep within the cryptic catacombs, lived an age-old sorcerer, weaving a powerful spell. Guided not by light, but by the unique markings etched on the walls, patterns that genius minds considered enigmatic.",
+            "\"The ancient markings led the boy to a strange room, laden with peculiar objects. Expectation and puzzle haunted his expressions as he maneuvered amidst the shadows. Could this mysterious place hold the solution to the kingdom's impending doom?\""
+        ],
+        "bereket": [
+            "there was an ancient magic that cursed the land and its was making a return after 100 years to kill the citizens",
+            "a curious young boy decided to go and investigate the markings on the wall so that he could get a clue to how to save the Kingdom from the dark magic",
+            "the boy made it to the room and found the evil mask it asked him three tricky questions and he was able to solve these questions to save the village"
+        ],
+        "abhishek": [
+            "unknown to the citizens their lay in ancient evil mask hidden in the city's catacombs very few knew what evil Powers it possessed and even fewer knew how to stop it",
+            "in order to get here he had made a tremendous Journey passing through many a desert oceans mountains he had to face many difficulties in order to get here but maybe he had a chance to stop the evil in the city",
+            "after he answered the three dastardly riddles posed by the mask only one question Remain the last asked him if he could make the journey up the Mountain of Gods and deliver the mask to the almighty Zeus the boy confident in his abilities said of course I can do that and grab the mask brought it with him and made the wrong track up Mount Olympus at last he came to the pantheon of gods face with the insurmountable task of crossing the barrier that separated he tried everything he could use the hammer he punched at it I asked he only had one thing left to try and that was to Adorn The Mask after this we don't know what happened but it's safe to say nothing good"
+        ]
+    },
+    "agent_selected_words": {
+        "sam": [
+            "Danger",
+            "spell",
+            "Strange"
+        ],
+        "bereket": [
+            "magic",
+            "Clue",
+            "Question"
+        ],
+        "abhishek": [
+            "Mask",
+            "Journey",
+            "Mountain"
+        ]
+    },
+    "turns": [
+        "sam",
+        "bereket",
+        "abhishek",
+        "sam",
+        "bereket",
+        "abhishek",
+        "sam",
+        "bereket",
+        "abhishek"
+    ],
+    "robot_predicted_words": {
+        "bereket": [
+            "Strange",
+            "Strange",
+            "Question"
+        ]
+    }
+}

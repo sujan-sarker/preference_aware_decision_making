@@ -1,0 +1,78 @@
+{
+    "session_string": "pid_33:pid_34:baseline",
+    "story_start_time": 1728666111.9100804,
+    "story_end_time": 1728666502.0569124,
+    "total_time": 390.14683198928833,
+    "total_reward": 41.199999999999996,
+    "robot_theme": "mystery",
+    "participant_1_theme": "teamwork",
+    "participant_2_theme": "adventure",
+    "words": [
+        "Dark",
+        "Common",
+        "Secret",
+        "Journey",
+        "Trust",
+        "Wild",
+        "Island",
+        "Discover",
+        "Follow"
+    ],
+    "story": [
+        "\"Beneath a moonlit sky,\nTwo detectives make a mysterious discovery.\"",
+        "it was a very dark night when the incident occur",
+        "even in this Darkness they have found that far from their Island was going with some mysterious light which is not supposed to be in that position",
+        "\"The secret light pulsed eerily, \nAn unknown source that defied believability.\"",
+        "from the University there started to follow the secret light and went toward the Iceland to see what is actually going the light",
+        "after falling for a while they have decided to have a journey by boat to the island to discover what is actually what is mysterious thing actually is",
+        "\"Barely knowing each other's strength,\nTrust bounded them tight in the sprawling depth.\"",
+        "the cast of The because both of those adventurous person has a common interest in the common interest was to find out the secret life from where the secret life was coming out",
+        "they have successfully sort out what the light was and this discovery and the journey to the wild had made their bond lifelong strong"
+    ],
+    "agent_contributions": {
+        "sam": [
+            "\"Beneath a moonlit sky,\nTwo detectives make a mysterious discovery.\"",
+            "\"The secret light pulsed eerily, \nAn unknown source that defied believability.\"",
+            "\"Barely knowing each other's strength,\nTrust bounded them tight in the sprawling depth.\""
+        ],
+        "deb": [
+            "it was a very dark night when the incident occur",
+            "from the University there started to follow the secret light and went toward the Iceland to see what is actually going the light",
+            "the cast of The because both of those adventurous person has a common interest in the common interest was to find out the secret life from where the secret life was coming out"
+        ],
+        "mahir": [
+            "even in this Darkness they have found that far from their Island was going with some mysterious light which is not supposed to be in that position",
+            "after falling for a while they have decided to have a journey by boat to the island to discover what is actually what is mysterious thing actually is",
+            "they have successfully sort out what the light was and this discovery and the journey to the wild had made their bond lifelong strong"
+        ]
+    },
+    "agent_selected_words": {
+        "sam": [
+            "Discover",
+            "Secret",
+            "Trust"
+        ],
+        "deb": [
+            "Dark",
+            "Follow",
+            "Common"
+        ],
+        "mahir": [
+            "Island",
+            "Journey",
+            "Wild"
+        ]
+    },
+    "turns": [
+        "sam",
+        "deb",
+        "mahir",
+        "sam",
+        "deb",
+        "mahir",
+        "sam",
+        "deb",
+        "mahir"
+    ],
+    "robot_predicted_words": {}
+}

@@ -1,0 +1,78 @@
+{
+    "session_string": "pid_16:pid_15:baseline",
+    "story_start_time": 1728568448.674068,
+    "story_end_time": 1728568917.8840005,
+    "total_time": 469.2099325656891,
+    "total_reward": 54.800000000000004,
+    "robot_theme": "adventure",
+    "participant_1_theme": "teamwork",
+    "participant_2_theme": "teamwork",
+    "words": [
+        "Mountain",
+        "Map",
+        "Partner",
+        "Explore",
+        "Forest",
+        "Journey",
+        "Collaborate",
+        "Fellowship",
+        "Together"
+    ],
+    "story": [
+        "In the land of Deodar,\nTwo heroes start a journey far.",
+        "together they decided to visit the most dangerous mountains in the world and Hike all of them",
+        "with just a tent and a map they went on all these mountains foraging for food and facing the wilderness",
+        "With a tent and a map, they explore,\nBraving through the tasks galore.",
+        "in one of their hikes to the mountain is partner got wounded and they need some remedies from a forest near the mountain",
+        "how did the wounded one tried to hobble down the mountain to get to the forest eventually he had to be left behind and wait on the mountain for his partner to return with the remedy",
+        "\"The remedy waits in forest's heart,\nPartner sets off, they must not part. \nDown the winding trail he raced.\"",
+        "I found the remedy without any collaboration and then came back to his partner",
+        "once reunited he treated his partner with the remedy and the two of them enjoyed some fellowship over berries that he had gathered while out as well"
+    ],
+    "agent_contributions": {
+        "sam": [
+            "In the land of Deodar,\nTwo heroes start a journey far.",
+            "With a tent and a map, they explore,\nBraving through the tasks galore.",
+            "\"The remedy waits in forest's heart,\nPartner sets off, they must not part. \nDown the winding trail he raced.\""
+        ],
+        "reza": [
+            "together they decided to visit the most dangerous mountains in the world and Hike all of them",
+            "in one of their hikes to the mountain is partner got wounded and they need some remedies from a forest near the mountain",
+            "I found the remedy without any collaboration and then came back to his partner"
+        ],
+        "holly": [
+            "with just a tent and a map they went on all these mountains foraging for food and facing the wilderness",
+            "how did the wounded one tried to hobble down the mountain to get to the forest eventually he had to be left behind and wait on the mountain for his partner to return with the remedy",
+            "once reunited he treated his partner with the remedy and the two of them enjoyed some fellowship over berries that he had gathered while out as well"
+        ]
+    },
+    "agent_selected_words": {
+        "sam": [
+            "Journey",
+            "Explore",
+            "Partner"
+        ],
+        "reza": [
+            "Together",
+            "Mountain",
+            "Collaborate"
+        ],
+        "holly": [
+            "Map",
+            "Forest",
+            "Fellowship"
+        ]
+    },
+    "turns": [
+        "sam",
+        "reza",
+        "holly",
+        "sam",
+        "reza",
+        "holly",
+        "sam",
+        "reza",
+        "holly"
+    ],
+    "robot_predicted_words": {}
+}

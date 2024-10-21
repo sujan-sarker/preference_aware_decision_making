@@ -1,0 +1,78 @@
+{
+    "session_string": "pid_20:pid_19:baseline",
+    "story_start_time": 1728579014.5582366,
+    "story_end_time": 1728579382.7896824,
+    "total_time": 368.23144578933716,
+    "total_reward": 51.0,
+    "robot_theme": "fairy tale",
+    "participant_1_theme": "adventure",
+    "participant_2_theme": "mystery",
+    "words": [
+        "Evidence",
+        "Keyhole",
+        "potion",
+        "Wild",
+        "Solve",
+        "Mask",
+        "Ancient",
+        "Love",
+        "wizard"
+    ],
+    "story": [
+        "In a nearby kingdom, \nA wizard lived alone.",
+        "he used to pretend like he loves everyone but he actually deep inside he actually didn't",
+        "he had a mask that he used to wear at night and go out in the roads and find people who are alone at night and torture them and casted black magic on them and that gave him fun it's your turn",
+        "One day, the wizard stumbled upon a recipe for a love potion. Intrigued, he decided to brew it.",
+        "he was hoping that this portion could solve many of his problems but he tried to start making this potion",
+        "but he didn't have enough ingredients to do that person so he planned to go out he took his keys and put them in the keyhole and open the door and went out to grab the necessary items that will help him to view the potion",
+        "The ancient recipe called for rare herbs.\nWith excitement, he began his search.",
+        "in search of the real house he started to go through a jungle he knew that there were many wild animals there but he didn't care he was only thinking about making the portion",
+        "after a while he was able to gather all the house he needed and then he started making the potion he was successful making the portion after a couple of Trials and then he made a girl drink that portion and made her fall in love with him but soon after a couple of days the magic of the person wear off and the girl started hating the wizard and he could find the evidence that love cannot be forced and you have to earn it"
+    ],
+    "agent_contributions": {
+        "sam": [
+            "In a nearby kingdom, \nA wizard lived alone.",
+            "One day, the wizard stumbled upon a recipe for a love potion. Intrigued, he decided to brew it.",
+            "The ancient recipe called for rare herbs.\nWith excitement, he began his search."
+        ],
+        "afrina": [
+            "he used to pretend like he loves everyone but he actually deep inside he actually didn't",
+            "he was hoping that this portion could solve many of his problems but he tried to start making this potion",
+            "in search of the real house he started to go through a jungle he knew that there were many wild animals there but he didn't care he was only thinking about making the portion"
+        ],
+        "fahim": [
+            "he had a mask that he used to wear at night and go out in the roads and find people who are alone at night and torture them and casted black magic on them and that gave him fun it's your turn",
+            "but he didn't have enough ingredients to do that person so he planned to go out he took his keys and put them in the keyhole and open the door and went out to grab the necessary items that will help him to view the potion",
+            "after a while he was able to gather all the house he needed and then he started making the potion he was successful making the portion after a couple of Trials and then he made a girl drink that portion and made her fall in love with him but soon after a couple of days the magic of the person wear off and the girl started hating the wizard and he could find the evidence that love cannot be forced and you have to earn it"
+        ]
+    },
+    "agent_selected_words": {
+        "sam": [
+            "wizard",
+            "potion",
+            "Ancient"
+        ],
+        "afrina": [
+            "Love",
+            "Solve",
+            "Wild"
+        ],
+        "fahim": [
+            "Mask",
+            "Keyhole",
+            "Evidence"
+        ]
+    },
+    "turns": [
+        "sam",
+        "afrina",
+        "fahim",
+        "sam",
+        "afrina",
+        "fahim",
+        "sam",
+        "afrina",
+        "fahim"
+    ],
+    "robot_predicted_words": {}
+}

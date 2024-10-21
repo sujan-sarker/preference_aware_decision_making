@@ -1,0 +1,84 @@
+{
+    "session_string": "pid_37:pid_38:proposed",
+    "story_start_time": 1728677036.3965435,
+    "story_end_time": 1728677448.8331106,
+    "total_time": 412.4365670681,
+    "total_reward": 43.4,
+    "robot_theme": "teamwork",
+    "participant_1_theme": "adventure",
+    "participant_2_theme": "fairy tale",
+    "words": [
+        "Follow",
+        "Fellowship",
+        "Trust",
+        "Journey",
+        "Wish",
+        "castle",
+        "Mountain",
+        "wizard",
+        "Together"
+    ],
+    "story": [
+        "\"In a sleepy town, children came together, with a silent, hopeful expression. Each held something dear to their hearts.\"",
+        "I think that they can explore that wizard together in the town and it might be their favorite things to explore that",
+        "the wizard was wise and they wished that the wizard could answer why they held those things in their hearts",
+        "\"The group decided to follow the map left by the wizard. As they journeyed together, their steps in unison embodied a more profound bond, blossoming further with each step. Their unity tended to bring a sense of reassurance and reliance upon each other. As they continued their quest, their eyes gleamed, a quiet testament to their shared ambition. They were one step closer to find the answers their hearts desired.\"",
+        "gradually they are going to the mountain and then all of a sudden they found it interesting thing and they are little bit scared to see that thing but they were very eager to explore more that thing",
+        "they found a rundown castle and outside the castle was the Wizard's horse this confused them for the map did not say anything about a castle could they actually trust the wizard more",
+        "\"The unexpected sight of the forgotten castle did not deter them, their fellowship was unbroken. They calmly huddled together, sharing courage from their collective strength. Tomorrow promises intriguing answers as the old brickwork awaits their eager touch.\"",
+        "now the addressing the wizard but it's still there bit confused whether they should follow it or not but it's still in the medical world they are like like getting lost and at the same time trusting the wizard as well",
+        "the ventured into the castle and at the end of their Journey they came at a loss it was The Wizard dead decaying as if he has been dead for days all their hopes and dreams crushed without the wizard how could they ever find the answers"
+    ],
+    "agent_contributions": {
+        "sam": [
+            "\"In a sleepy town, children came together, with a silent, hopeful expression. Each held something dear to their hearts.\"",
+            "\"The group decided to follow the map left by the wizard. As they journeyed together, their steps in unison embodied a more profound bond, blossoming further with each step. Their unity tended to bring a sense of reassurance and reliance upon each other. As they continued their quest, their eyes gleamed, a quiet testament to their shared ambition. They were one step closer to find the answers their hearts desired.\"",
+            "\"The unexpected sight of the forgotten castle did not deter them, their fellowship was unbroken. They calmly huddled together, sharing courage from their collective strength. Tomorrow promises intriguing answers as the old brickwork awaits their eager touch.\""
+        ],
+        "rumali": [
+            "I think that they can explore that wizard together in the town and it might be their favorite things to explore that",
+            "gradually they are going to the mountain and then all of a sudden they found it interesting thing and they are little bit scared to see that thing but they were very eager to explore more that thing",
+            "now the addressing the wizard but it's still there bit confused whether they should follow it or not but it's still in the medical world they are like like getting lost and at the same time trusting the wizard as well"
+        ],
+        "faiyaz": [
+            "the wizard was wise and they wished that the wizard could answer why they held those things in their hearts",
+            "they found a rundown castle and outside the castle was the Wizard's horse this confused them for the map did not say anything about a castle could they actually trust the wizard more",
+            "the ventured into the castle and at the end of their Journey they came at a loss it was The Wizard dead decaying as if he has been dead for days all their hopes and dreams crushed without the wizard how could they ever find the answers"
+        ]
+    },
+    "agent_selected_words": {
+        "sam": [
+            "Together",
+            "Follow",
+            "Fellowship"
+        ],
+        "rumali": [
+            "wizard",
+            "Mountain",
+            "Trust"
+        ],
+        "faiyaz": [
+            "Wish",
+            "castle",
+            "Journey"
+        ]
+    },
+    "turns": [
+        "sam",
+        "rumali",
+        "faiyaz",
+        "sam",
+        "rumali",
+        "faiyaz",
+        "sam",
+        "rumali",
+        "faiyaz"
+    ],
+    "robot_predicted_words": {
+        "rumali": [
+            "Wish",
+            "Trust",
+            "Journey"
+        ]
+    }
+}

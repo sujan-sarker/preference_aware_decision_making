@@ -1,0 +1,84 @@
+{
+    "session_string": "pid_39:pid_40:proposed",
+    "story_start_time": 1728680554.393273,
+    "story_end_time": 1728681104.1513271,
+    "total_time": 549.7580540180206,
+    "total_reward": 50.2,
+    "robot_theme": "fairy tale",
+    "participant_1_theme": "adventure",
+    "participant_2_theme": "mystery",
+    "words": [
+        "Mask",
+        "Evidence",
+        "Wood",
+        "wizard",
+        "Riddle",
+        "Treasure",
+        "Strange",
+        "Island",
+        "potion"
+    ],
+    "story": [
+        "\"In a realm afar, there existed an enchanted Island. Its secrets, shrouded in myth, beckoned the curious and the brave.\"",
+        "people say that there exists different precious Treasures in the island but as it was surrounded with dangers no one dared to reach their and unfold them",
+        "also there were riddles that had to be solved to get hold of those Treasures so the real question was now how to get to the treasure and how to solve the riddle",
+        "\"Legend told of an ancient potion, hidden deep within the caverns of the island, said to aid the bravest of hearts to overcome the treacherous path. The concoction possessed peculiar properties, gifting its drinker with the ability to appear far different from their true selves, appeasing the island's vengeful spirits.\"",
+        "the potion was created by a strong and evil wizard who created many portions in the forest in the island but all of them were lost and only this one survived people say that this portion is unconquerable",
+        "the last time someone was seen drinking the potion had a mask on and he drank the potion and ran into the forest the people are still in charge of the masked man who drank the potion last time",
+        "\"It was indeed a strange sight, the masked man disappearing into the forest, leaving questions trailing in his wake. His abrupt vanishing did not go unnoticed as it unveiled traces of odd footprints and a mysterious glow deep in the island wilderness. Will these unusual hints present a way to the hidden treasures?\"",
+        "4 to find the evidence of the Mysteries that are going on on the island a team from the government went to the island to investigate and found out that there was actually no mysterious thing or unusual thing in the island there were some Bandits or evil men were doing illegal business on the island and made the stories to to cover their workings",
+        "the evil man kept on cutting the wood in the forest and selling them at a high price and in order to keep people away from the forest they often to the shape of masked man and Cape Town carrying the meat of the potion"
+    ],
+    "agent_contributions": {
+        "sam": [
+            "\"In a realm afar, there existed an enchanted Island. Its secrets, shrouded in myth, beckoned the curious and the brave.\"",
+            "\"Legend told of an ancient potion, hidden deep within the caverns of the island, said to aid the bravest of hearts to overcome the treacherous path. The concoction possessed peculiar properties, gifting its drinker with the ability to appear far different from their true selves, appeasing the island's vengeful spirits.\"",
+            "\"It was indeed a strange sight, the masked man disappearing into the forest, leaving questions trailing in his wake. His abrupt vanishing did not go unnoticed as it unveiled traces of odd footprints and a mysterious glow deep in the island wilderness. Will these unusual hints present a way to the hidden treasures?\""
+        ],
+        "joy": [
+            "people say that there exists different precious Treasures in the island but as it was surrounded with dangers no one dared to reach their and unfold them",
+            "the potion was created by a strong and evil wizard who created many portions in the forest in the island but all of them were lost and only this one survived people say that this portion is unconquerable",
+            "4 to find the evidence of the Mysteries that are going on on the island a team from the government went to the island to investigate and found out that there was actually no mysterious thing or unusual thing in the island there were some Bandits or evil men were doing illegal business on the island and made the stories to to cover their workings"
+        ],
+        "simantika": [
+            "also there were riddles that had to be solved to get hold of those Treasures so the real question was now how to get to the treasure and how to solve the riddle",
+            "the last time someone was seen drinking the potion had a mask on and he drank the potion and ran into the forest the people are still in charge of the masked man who drank the potion last time",
+            "the evil man kept on cutting the wood in the forest and selling them at a high price and in order to keep people away from the forest they often to the shape of masked man and Cape Town carrying the meat of the potion"
+        ]
+    },
+    "agent_selected_words": {
+        "sam": [
+            "Island",
+            "potion",
+            "Strange"
+        ],
+        "joy": [
+            "Treasure",
+            "wizard",
+            "Evidence"
+        ],
+        "simantika": [
+            "Riddle",
+            "Mask",
+            "Wood"
+        ]
+    },
+    "turns": [
+        "sam",
+        "joy",
+        "simantika",
+        "sam",
+        "joy",
+        "simantika",
+        "sam",
+        "joy",
+        "simantika"
+    ],
+    "robot_predicted_words": {
+        "joy": [
+            "Riddle",
+            "Mask",
+            "Evidence"
+        ]
+    }
+}

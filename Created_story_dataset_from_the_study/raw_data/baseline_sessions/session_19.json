@@ -1,0 +1,78 @@
+{
+    "session_string": "pid_37:pid_38:baseline",
+    "story_start_time": 1728676149.1893487,
+    "story_end_time": 1728676544.6600366,
+    "total_time": 395.47068786621094,
+    "total_reward": 56.00000000000001,
+    "robot_theme": "fairy tale",
+    "participant_1_theme": "adventure",
+    "participant_2_theme": "fairy tale",
+    "words": [
+        "potion",
+        "dragon",
+        "Discover",
+        "Explore",
+        "magic",
+        "Unknown",
+        "Love",
+        "Map",
+        "Forest"
+    ],
+    "story": [
+        "In the heart of Magic Woods,\nTwo children, Cara and Kai, discover a glow.",
+        "it was a great love to see that glow but at the same time it's very adventurous Journey for them but let's explore that magic words together now it's your turn",
+        "they followed the glow and found an obelisk with the crystal in the middle when they touch the crystal a vision of a Great Hall showed up right in front of them",
+        "Suddenly, the crystal pulsed, magic surged.\n\"Speak a wish,\" a voice urged.",
+        "do you think about the wish I guess I want to explore more so let's see how far we can go and explore the magic world together in this Adventures",
+        "call replied you are correct we should not be randomly listening to crystals as they asked us to answer to their wishes it could be tricked or Crap instead in that same vision we saw a forest that we once visited let's go and revisit that place",
+        "Suddenly, they heard a roar.\nA dragon, majestic yet fierce, appeared.\n\"Help me,\" it pleaded.",
+        "yeah we can help but I got an unfair in me like it's a dragon is a little bit scary for me so can we think of something else",
+        "thanks to plot armor Kai had a polymorph potion in his pocket he threw it at the dragon shaking the polymorph potion turn the dragon into a mouse and that gave them enough time to run away and Escape"
+    ],
+    "agent_contributions": {
+        "sam": [
+            "In the heart of Magic Woods,\nTwo children, Cara and Kai, discover a glow.",
+            "Suddenly, the crystal pulsed, magic surged.\n\"Speak a wish,\" a voice urged.",
+            "Suddenly, they heard a roar.\nA dragon, majestic yet fierce, appeared.\n\"Help me,\" it pleaded."
+        ],
+        "rumali": [
+            "it was a great love to see that glow but at the same time it's very adventurous Journey for them but let's explore that magic words together now it's your turn",
+            "do you think about the wish I guess I want to explore more so let's see how far we can go and explore the magic world together in this Adventures",
+            "yeah we can help but I got an unfair in me like it's a dragon is a little bit scary for me so can we think of something else"
+        ],
+        "faiyaz": [
+            "they followed the glow and found an obelisk with the crystal in the middle when they touch the crystal a vision of a Great Hall showed up right in front of them",
+            "call replied you are correct we should not be randomly listening to crystals as they asked us to answer to their wishes it could be tricked or Crap instead in that same vision we saw a forest that we once visited let's go and revisit that place",
+            "thanks to plot armor Kai had a polymorph potion in his pocket he threw it at the dragon shaking the polymorph potion turn the dragon into a mouse and that gave them enough time to run away and Escape"
+        ]
+    },
+    "agent_selected_words": {
+        "sam": [
+            "Discover",
+            "magic",
+            "dragon"
+        ],
+        "rumali": [
+            "Love",
+            "Explore",
+            "Unknown"
+        ],
+        "faiyaz": [
+            "Map",
+            "Forest",
+            "potion"
+        ]
+    },
+    "turns": [
+        "sam",
+        "rumali",
+        "faiyaz",
+        "sam",
+        "rumali",
+        "faiyaz",
+        "sam",
+        "rumali",
+        "faiyaz"
+    ],
+    "robot_predicted_words": {}
+}

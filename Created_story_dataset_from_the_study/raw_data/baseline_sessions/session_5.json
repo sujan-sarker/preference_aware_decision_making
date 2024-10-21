@@ -1,0 +1,78 @@
+{
+    "session_string": "pid_9:pid_10:baseline",
+    "story_start_time": 1728514494.7864642,
+    "story_end_time": 1728514994.5012712,
+    "total_time": 499.7148070335388,
+    "total_reward": 50.2,
+    "robot_theme": "mystery",
+    "participant_1_theme": "adventure",
+    "participant_2_theme": "teamwork",
+    "words": [
+        "Shadow",
+        "Follow",
+        "Support",
+        "Keyhole",
+        "Danger",
+        "Solve",
+        "Clue",
+        "Mask",
+        "Puzzle"
+    ],
+    "story": [
+        "In the quiet library, Sarah glimpsed\nThrough a keyhole, a shadow shifted.",
+        "Sarah's trying to decide whether should she Follow by she has no clue of what that thing is so she decided to stay still",
+        "Presley Sarah just saw a shadow but then light came by and see she saw a man with the mascot on",
+        "\"Oddly, he held a puzzle piece,\nWhence did it come? increased her unease.\"",
+        "Sarah knows that puzzle may lead to a surprise so she asked her if he needs her help solving this puzzle",
+        "Sarah had a friend with her and he and she tried to get support from her friend",
+        "\"Danger lurks,\" her friend surmised,\n\"Hold tight, for the puzzle is disguised.\"",
+        "Sarah decides to follow her friends and she stay still in the library anyway",
+        "so they decided to follow the Shadow and after that they discovered that a thief has entered into the library and they tried to catch him"
+    ],
+    "agent_contributions": {
+        "sam": [
+            "In the quiet library, Sarah glimpsed\nThrough a keyhole, a shadow shifted.",
+            "\"Oddly, he held a puzzle piece,\nWhence did it come? increased her unease.\"",
+            "\"Danger lurks,\" her friend surmised,\n\"Hold tight, for the puzzle is disguised.\""
+        ],
+        "gru": [
+            "Sarah's trying to decide whether should she Follow by she has no clue of what that thing is so she decided to stay still",
+            "Sarah knows that puzzle may lead to a surprise so she asked her if he needs her help solving this puzzle",
+            "Sarah decides to follow her friends and she stay still in the library anyway"
+        ],
+        "king": [
+            "Presley Sarah just saw a shadow but then light came by and see she saw a man with the mascot on",
+            "Sarah had a friend with her and he and she tried to get support from her friend",
+            "so they decided to follow the Shadow and after that they discovered that a thief has entered into the library and they tried to catch him"
+        ]
+    },
+    "agent_selected_words": {
+        "sam": [
+            "Keyhole",
+            "Puzzle",
+            "Danger"
+        ],
+        "gru": [
+            "Clue",
+            "Solve",
+            "Follow"
+        ],
+        "king": [
+            "Mask",
+            "Support",
+            "Shadow"
+        ]
+    },
+    "turns": [
+        "sam",
+        "gru",
+        "king",
+        "sam",
+        "gru",
+        "king",
+        "sam",
+        "gru",
+        "king"
+    ],
+    "robot_predicted_words": {}
+}

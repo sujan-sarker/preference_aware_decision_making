@@ -1,0 +1,78 @@
+{
+    "session_string": "pid_23:pid_24:baseline",
+    "story_start_time": 1728592505.9041893,
+    "story_end_time": 1728592946.9417155,
+    "total_time": 441.03752613067627,
+    "total_reward": 44.800000000000004,
+    "robot_theme": "adventure",
+    "participant_1_theme": "teamwork",
+    "participant_2_theme": "adventure",
+    "words": [
+        "Help",
+        "Treasure",
+        "Meet",
+        "Assist",
+        "Collaborate",
+        "Fellowship",
+        "Support",
+        "Mountain",
+        "Wild"
+    ],
+    "story": [
+        "In the Kingdom of Aleron, two brave hearts, Elara the mage and Theron the knight, vowed allegiance forming \"The Fellowship of Hope\".",
+        "as part of the fellowship of Hope Elara and Theron would fight against any dangers threatening their town and their Kingdom they were appointed by the king and queen of alaron to take on this role they faced their first challenge when an outside Kingdom came to invade theirs",
+        "Elara Health theorem to fight against many dangers the it was threatening them and the king of that kingdom was very happy with their performance their fighting against many dangers and many adversaries to to take back the freedom of their Kingdom so they were placed by the king",
+        "News reached the fellowship of a menacing dragon residing atop the Thorn Mountain. Elara and Theron prepared to face this unprecedented challenge.",
+        "the dragon was angry as people from the kingdom of alaron had stolen the dragon's treasure when the dragon was ready to attack Elara and Theron had to work together in order to fight away the Dragon",
+        "Elara assistant theorem to fight against the dragon and they work together to fight away the dragon and they used many weapons to fight the dragon but the dragon was very angry and it was very a dragon was very dangerous it was fighting back and they were continuing to fight until the dragon died",
+        "Elara's magical shield provided support,\nAs Theron lunged forward with his sword.\nTogether, they downed the dragon, restoring peace.",
+        "after hearing of their success the king and queen requested to meet The Fellowship Of Hope after the meeting Ella and Theron were promoted and were granted Knighthood and were sworn in to protect the kingdom of alaron forever",
+        "in this way Elara and Tehran fight of a wild dragon and they get the recognition in the kingdom and the king and queen was very happy and I love her and Theron were promoted and so they lived happily then"
+    ],
+    "agent_contributions": {
+        "sam": [
+            "In the Kingdom of Aleron, two brave hearts, Elara the mage and Theron the knight, vowed allegiance forming \"The Fellowship of Hope\".",
+            "News reached the fellowship of a menacing dragon residing atop the Thorn Mountain. Elara and Theron prepared to face this unprecedented challenge.",
+            "Elara's magical shield provided support,\nAs Theron lunged forward with his sword.\nTogether, they downed the dragon, restoring peace."
+        ],
+        "nate": [
+            "as part of the fellowship of Hope Elara and Theron would fight against any dangers threatening their town and their Kingdom they were appointed by the king and queen of alaron to take on this role they faced their first challenge when an outside Kingdom came to invade theirs",
+            "the dragon was angry as people from the kingdom of alaron had stolen the dragon's treasure when the dragon was ready to attack Elara and Theron had to work together in order to fight away the Dragon",
+            "after hearing of their success the king and queen requested to meet The Fellowship Of Hope after the meeting Ella and Theron were promoted and were granted Knighthood and were sworn in to protect the kingdom of alaron forever"
+        ],
+        "arafat": [
+            "Elara Health theorem to fight against many dangers the it was threatening them and the king of that kingdom was very happy with their performance their fighting against many dangers and many adversaries to to take back the freedom of their Kingdom so they were placed by the king",
+            "Elara assistant theorem to fight against the dragon and they work together to fight away the dragon and they used many weapons to fight the dragon but the dragon was very angry and it was very a dragon was very dangerous it was fighting back and they were continuing to fight until the dragon died",
+            "in this way Elara and Tehran fight of a wild dragon and they get the recognition in the kingdom and the king and queen was very happy and I love her and Theron were promoted and so they lived happily then"
+        ]
+    },
+    "agent_selected_words": {
+        "sam": [
+            "Fellowship",
+            "Mountain",
+            "Support"
+        ],
+        "nate": [
+            "Collaborate",
+            "Treasure",
+            "Meet"
+        ],
+        "arafat": [
+            "Help",
+            "Assist",
+            "Wild"
+        ]
+    },
+    "turns": [
+        "sam",
+        "nate",
+        "arafat",
+        "sam",
+        "nate",
+        "arafat",
+        "sam",
+        "nate",
+        "arafat"
+    ],
+    "robot_predicted_words": {}
+}
