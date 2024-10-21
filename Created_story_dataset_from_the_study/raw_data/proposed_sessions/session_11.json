@@ -1,0 +1,84 @@
+{
+    "session_string": "pid_21:pid_22:proposed",
+    "story_start_time": 1728587216.1562045,
+    "story_end_time": 1728588051.2587066,
+    "total_time": 835.1025021076202,
+    "total_reward": 44.00000000000001,
+    "robot_theme": "fairy tale",
+    "participant_1_theme": "teamwork",
+    "participant_2_theme": "adventure",
+    "words": [
+        "Join",
+        "potion",
+        "Island",
+        "Trust",
+        "Mountain",
+        "magic",
+        "Common",
+        "castle",
+        "Fellowship"
+    ],
+    "story": [
+        "In a realm of enchantment, a Fellowship of brave hearts set out on a quest. They carried peculiar relics, twinkling strangely in the moonlight.",
+        "they have been sailing for a long time to reach this isolated island deep in the ocean and they their goal is only one",
+        "they are seeking a potion that will make them live forever and from what they can tell there's a witch on this island who possesses that portion",
+        "Upon landing, they felt a surprising surge of magic pervading the air. Yet around them, not enchantments or spellbound creatures, but rather mundane flora and fauna seemed to thrive.",
+        "at this point they can only trust their own capability so they carefully March towards the center of the island",
+        "at the center of the island there's a huge castle they decide to go inside and try their luck to look for the witch",
+        "As the fellowship explored deeper into the castle, they stumbled upon another traveler. This wanderer was lost, seeking shelter and asked to join their crew. Noticing his gaze constantly straying towards the towering height reaching into the skies, they felt an unspoken understanding about their next destination.",
+        "the fellowship talked to the traveler and surprisingly they found that all of them three has had the same goal and they just decided to walk together",
+        "they decided to all climb the mountain together but the journey I had was extremely dangerous the final question became would they risk their lives in exchange for immortality"
+    ],
+    "agent_contributions": {
+        "sam": [
+            "In a realm of enchantment, a Fellowship of brave hearts set out on a quest. They carried peculiar relics, twinkling strangely in the moonlight.",
+            "Upon landing, they felt a surprising surge of magic pervading the air. Yet around them, not enchantments or spellbound creatures, but rather mundane flora and fauna seemed to thrive.",
+            "As the fellowship explored deeper into the castle, they stumbled upon another traveler. This wanderer was lost, seeking shelter and asked to join their crew. Noticing his gaze constantly straying towards the towering height reaching into the skies, they felt an unspoken understanding about their next destination."
+        ],
+        "yidi": [
+            "they have been sailing for a long time to reach this isolated island deep in the ocean and they their goal is only one",
+            "at this point they can only trust their own capability so they carefully March towards the center of the island",
+            "the fellowship talked to the traveler and surprisingly they found that all of them three has had the same goal and they just decided to walk together"
+        ],
+        "ishita": [
+            "they are seeking a potion that will make them live forever and from what they can tell there's a witch on this island who possesses that portion",
+            "at the center of the island there's a huge castle they decide to go inside and try their luck to look for the witch",
+            "they decided to all climb the mountain together but the journey I had was extremely dangerous the final question became would they risk their lives in exchange for immortality"
+        ]
+    },
+    "agent_selected_words": {
+        "sam": [
+            "Fellowship",
+            "magic",
+            "Join"
+        ],
+        "yidi": [
+            "Island",
+            "Trust",
+            "Common"
+        ],
+        "ishita": [
+            "potion",
+            "castle",
+            "Mountain"
+        ]
+    },
+    "turns": [
+        "sam",
+        "yidi",
+        "ishita",
+        "sam",
+        "yidi",
+        "ishita",
+        "sam",
+        "yidi",
+        "ishita"
+    ],
+    "robot_predicted_words": {
+        "yidi": [
+            "magic",
+            "Common",
+            "Mountain"
+        ]
+    }
+}

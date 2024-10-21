@@ -1,0 +1,78 @@
+{
+    "session_string": "pid_28:pid_27:baseline",
+    "story_start_time": 1728602513.279886,
+    "story_end_time": 1728603027.9469216,
+    "total_time": 514.6670355796814,
+    "total_reward": 61.199999999999996,
+    "robot_theme": "mystery",
+    "participant_1_theme": "mystery",
+    "participant_2_theme": "fairy tale",
+    "words": [
+        "Love",
+        "Evidence",
+        "Mask",
+        "Keyhole",
+        "transform",
+        "magic",
+        "Shadow",
+        "castle",
+        "Solve"
+    ],
+    "story": [
+        "In an old, creaky mansion,\nMiss Amelia peered through a keyhole.",
+        "she could not make out the figures and the other room but she saw a shadow with a knife killing the other person in the room she ran away not wanting to confront the murderer but she knew she had to figure out who did it",
+        "Please continue the story",
+        "With trembling hands, she grabbed a candle.\nThe flickering glow revealed a bloody handprint,\nA vital piece of evidence had been found.",
+        "has she held the candle to the bloody handprint and it was investigating she heard a noise behind her she turned around and saw her kids with blood all over their clothing she was unsure how they could transform into bloody killers",
+        "she couldn't understand how the two lovely boys Tommy and Brandon she had watched grow up that she had raised as her own children could wear the mask of such loving people but on the inside the killers she was heartbroken but she knew that she had to do something about it",
+        "\"The mansion is a castle of secrets,\" she thought.\nSearching for her children, hope seemed lost.",
+        "after thinking about how her kids could do this she started pleading with them and asking them to not kill her too but they ran after her and she decided she had to run through to as much as she tried to run it was like magic how they kept catching up to her but eventually she ran into the woods and hope they wouldn't follow her",
+        "she knew her only hope was beating them through the power of love so she ran all the way back home and started cooking their favorite dish hoping they wouldn't find her in the process she caught up the carrots prepared the hen defaulted marinated it cooked it up and made their favorite dish carrot and hen stew as they ran in the house bloody knives in hand they smelled the beautiful smell of the stew suddenly it was like they had transformed they changed back into the regular children that they used to be at the end of the night she went back to the old mansion and dissolved all of the bodies cleaning up the house to make sure her kids wouldn't be convicted of murder at the end of the day everyone was happy except the people who died"
+    ],
+    "agent_contributions": {
+        "sam": [
+            "In an old, creaky mansion,\nMiss Amelia peered through a keyhole.",
+            "With trembling hands, she grabbed a candle.\nThe flickering glow revealed a bloody handprint,\nA vital piece of evidence had been found.",
+            "\"The mansion is a castle of secrets,\" she thought.\nSearching for her children, hope seemed lost."
+        ],
+        "bereket": [
+            "she could not make out the figures and the other room but she saw a shadow with a knife killing the other person in the room she ran away not wanting to confront the murderer but she knew she had to figure out who did it",
+            "has she held the candle to the bloody handprint and it was investigating she heard a noise behind her she turned around and saw her kids with blood all over their clothing she was unsure how they could transform into bloody killers",
+            "after thinking about how her kids could do this she started pleading with them and asking them to not kill her too but they ran after her and she decided she had to run through to as much as she tried to run it was like magic how they kept catching up to her but eventually she ran into the woods and hope they wouldn't follow her"
+        ],
+        "abhi": [
+            "Please continue the story",
+            "she couldn't understand how the two lovely boys Tommy and Brandon she had watched grow up that she had raised as her own children could wear the mask of such loving people but on the inside the killers she was heartbroken but she knew that she had to do something about it",
+            "she knew her only hope was beating them through the power of love so she ran all the way back home and started cooking their favorite dish hoping they wouldn't find her in the process she caught up the carrots prepared the hen defaulted marinated it cooked it up and made their favorite dish carrot and hen stew as they ran in the house bloody knives in hand they smelled the beautiful smell of the stew suddenly it was like they had transformed they changed back into the regular children that they used to be at the end of the night she went back to the old mansion and dissolved all of the bodies cleaning up the house to make sure her kids wouldn't be convicted of murder at the end of the day everyone was happy except the people who died"
+        ]
+    },
+    "agent_selected_words": {
+        "sam": [
+            "Keyhole",
+            "Evidence",
+            "castle"
+        ],
+        "bereket": [
+            "Shadow",
+            "transform",
+            "magic"
+        ],
+        "abhi": [
+            "Solve",
+            "Mask",
+            "Love"
+        ]
+    },
+    "turns": [
+        "sam",
+        "bereket",
+        "abhi",
+        "sam",
+        "bereket",
+        "abhi",
+        "sam",
+        "bereket",
+        "abhi"
+    ],
+    "robot_predicted_words": {}
+}

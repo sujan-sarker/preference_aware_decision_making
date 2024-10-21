@@ -1,0 +1,78 @@
+{
+    "session_string": "pid_35:pid_36:baseline",
+    "story_start_time": 1728672212.369356,
+    "story_end_time": 1728672651.979667,
+    "total_time": 439.61031103134155,
+    "total_reward": 52.400000000000006,
+    "robot_theme": "fairy tale",
+    "participant_1_theme": "mystery",
+    "participant_2_theme": "adventure",
+    "words": [
+        "Wood",
+        "Ancient",
+        "Discover",
+        "wizard",
+        "Truth",
+        "Keyhole",
+        "Journey",
+        "Mountain",
+        "Love"
+    ],
+    "story": [
+        "Once upon a time, in a\nlively village, began a journey.",
+        "Lively Village was surrounded by an ancient would teeming with fish and deer and ponds and all manners of forest creature it was a beautiful wood old dark but full of life and energy",
+        "in the village there was a market and in the market there was a wizard and he can move his hand over the fire and people loved it",
+        "The ancient wizard had a dilemma.\nA rival mage set a challenging puzzle.",
+        "in order to discover the secrets this challenging puzzle the wizard would have to go on a quest far and wide far away from the village",
+        "in his quest to solve the puzzle and as he was moving far from the village he found a mountain and he he tried to follow the Mountain Park until he arrives there",
+        "At the mountain peak, he found a door.\nThe keyhole, etched with mystical symbols.\nCuriosity piqued, he looked through it.",
+        "as the wizard appeared to the keyhole at the mystical symbols he saw the truth to the Mages to the Rival Mages challenging puzzle",
+        "the wizard wanted to solve the puzzle and when he found out that it was love that get solid so he decided to he decided to go to the village and found a beautiful wife as he was unmarried and that is how he tried to solve the problem"
+    ],
+    "agent_contributions": {
+        "sam": [
+            "Once upon a time, in a\nlively village, began a journey.",
+            "The ancient wizard had a dilemma.\nA rival mage set a challenging puzzle.",
+            "At the mountain peak, he found a door.\nThe keyhole, etched with mystical symbols.\nCuriosity piqued, he looked through it."
+        ],
+        "paxton": [
+            "Lively Village was surrounded by an ancient would teeming with fish and deer and ponds and all manners of forest creature it was a beautiful wood old dark but full of life and energy",
+            "in order to discover the secrets this challenging puzzle the wizard would have to go on a quest far and wide far away from the village",
+            "as the wizard appeared to the keyhole at the mystical symbols he saw the truth to the Mages to the Rival Mages challenging puzzle"
+        ],
+        "ariful": [
+            "in the village there was a market and in the market there was a wizard and he can move his hand over the fire and people loved it",
+            "in his quest to solve the puzzle and as he was moving far from the village he found a mountain and he he tried to follow the Mountain Park until he arrives there",
+            "the wizard wanted to solve the puzzle and when he found out that it was love that get solid so he decided to he decided to go to the village and found a beautiful wife as he was unmarried and that is how he tried to solve the problem"
+        ]
+    },
+    "agent_selected_words": {
+        "sam": [
+            "Journey",
+            "Ancient",
+            "Keyhole"
+        ],
+        "paxton": [
+            "Wood",
+            "Discover",
+            "Truth"
+        ],
+        "ariful": [
+            "wizard",
+            "Mountain",
+            "Love"
+        ]
+    },
+    "turns": [
+        "sam",
+        "paxton",
+        "ariful",
+        "sam",
+        "paxton",
+        "ariful",
+        "sam",
+        "paxton",
+        "ariful"
+    ],
+    "robot_predicted_words": {}
+}

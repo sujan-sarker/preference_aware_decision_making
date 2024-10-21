@@ -1,0 +1,78 @@
+{
+    "session_string": "pid_5:pid_6:baseline",
+    "story_start_time": 1728503053.1790004,
+    "story_end_time": 1728503671.2818165,
+    "total_time": 618.1028161048889,
+    "total_reward": 48.39999999999999,
+    "robot_theme": "teamwork",
+    "participant_1_theme": "mystery",
+    "participant_2_theme": "adventure",
+    "words": [
+        "Question",
+        "Puzzle",
+        "Shadow",
+        "Riddle",
+        "Discover",
+        "Lead",
+        "Trust",
+        "Mountain",
+        "Dark"
+    ],
+    "story": [
+        "In a distant planet,\nTwo astronauts disembark discovering an alien species.",
+        "the planet was dark and there were wild species of everywhere while they were discovered they were describing alien species he also found some kind of view registration or your rocks or soil or anything",
+        "so they got puzzled and they didn't know what to do they keep thinking and the puzzled deposit State begin to increase a lot they were running around without any kind of thoughts in their mind but some thoughts should be given prior to the next step",
+        "\"A sign of trust is vital,\" said one.\n\"Without it, we can't conquer the unknown.\"",
+        "someone from any from any of the two astronauts or someone should actually leave the story or lead the the adventure like where should I go next or what kind of like instead of getting puzzled they should someone okay should actually read the story leave the adventure",
+        "Mercedes they started to question their whole existence on the planet are they even on the planet or are they just hallucinating that they're on the planet if they're hallucinating then everything around them is also helps to Nation so what should be there next step to find out that they're not hallucinating",
+        "Suddenly, a cryptic riddle etched on stone appears.\n\"Together you'll decipher, to uncover what's real.\"",
+        "both of them actually look ahead this year Mountain then they see you there is some kind of structure like a similar structure from their home planet so now they are actually they want to like they think of going think of going there and explore the to find any kind of new alien species or something",
+        "going up the mountain they see a shadow of a human-like structure there again puzzled that I want to discover what is happening they are starting to trust each other in the name in the middle of the darkness the shadow is getting brighter and brighter they are moving towards the Shadow with an unresolved situation they don't know what is coming next"
+    ],
+    "agent_contributions": {
+        "sam": [
+            "In a distant planet,\nTwo astronauts disembark discovering an alien species.",
+            "\"A sign of trust is vital,\" said one.\n\"Without it, we can't conquer the unknown.\"",
+            "Suddenly, a cryptic riddle etched on stone appears.\n\"Together you'll decipher, to uncover what's real.\""
+        ],
+        "shyam": [
+            "the planet was dark and there were wild species of everywhere while they were discovered they were describing alien species he also found some kind of view registration or your rocks or soil or anything",
+            "someone from any from any of the two astronauts or someone should actually leave the story or lead the the adventure like where should I go next or what kind of like instead of getting puzzled they should someone okay should actually read the story leave the adventure",
+            "both of them actually look ahead this year Mountain then they see you there is some kind of structure like a similar structure from their home planet so now they are actually they want to like they think of going think of going there and explore the to find any kind of new alien species or something"
+        ],
+        "rad": [
+            "so they got puzzled and they didn't know what to do they keep thinking and the puzzled deposit State begin to increase a lot they were running around without any kind of thoughts in their mind but some thoughts should be given prior to the next step",
+            "Mercedes they started to question their whole existence on the planet are they even on the planet or are they just hallucinating that they're on the planet if they're hallucinating then everything around them is also helps to Nation so what should be there next step to find out that they're not hallucinating",
+            "going up the mountain they see a shadow of a human-like structure there again puzzled that I want to discover what is happening they are starting to trust each other in the name in the middle of the darkness the shadow is getting brighter and brighter they are moving towards the Shadow with an unresolved situation they don't know what is coming next"
+        ]
+    },
+    "agent_selected_words": {
+        "sam": [
+            "Discover",
+            "Trust",
+            "Riddle"
+        ],
+        "shyam": [
+            "Dark",
+            "Lead",
+            "Mountain"
+        ],
+        "rad": [
+            "Puzzle",
+            "Question",
+            "Shadow"
+        ]
+    },
+    "turns": [
+        "sam",
+        "shyam",
+        "rad",
+        "sam",
+        "shyam",
+        "rad",
+        "sam",
+        "shyam",
+        "rad"
+    ],
+    "robot_predicted_words": {}
+}

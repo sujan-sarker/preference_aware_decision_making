@@ -1,0 +1,84 @@
+{
+    "session_string": "pid_9:pid_10:proposed",
+    "story_start_time": 1728515455.3661053,
+    "story_end_time": 1728516497.4308803,
+    "total_time": 1042.0647749900818,
+    "total_reward": 41.6,
+    "robot_theme": "fairy tale",
+    "participant_1_theme": "adventure",
+    "participant_2_theme": "fairy tale",
+    "words": [
+        "potion",
+        "Discover",
+        "Wild",
+        "Wood",
+        "Unknown",
+        "Ancient",
+        "transform",
+        "Kindness",
+        "dragon"
+    ],
+    "story": [
+        "In a richly verdant kingdom, nestled amongst the towering wood, a generous old carpenter lived. Coveted for his splendid craftsmanship, he was known for his creations, laden with charm and unfathomable skill.\n\n...",
+        "one day one old carpenter was trying to find some trees he went to the forest there is a dragon lying there and the burning down all the trees the captain asked why are you burning down all the trees Dragon the dragon replied with words because I have nowhere to leave these trees are blocking my way comma said that is fine let me build a house for you then the carpenter build a house for the dragon and the dragon stopped Burning Down the whole Forest",
+        "the dragon was amazed by the kindness of the carpenter so he tried to share his story like how he became a dragon so previously he didn't he wasn't a dragon so but when he was the king of the Kingdom so when he was going for a walk in the forest one day so she put he put step on him Rock and then he found out that like like that was somehow fires so and if he came up and told him that like he had done a video wrong job so he had to pay for it so she was cursed to become a dragon",
+        "In a voice, subdued by eons of sorrow, the dragon started, \"Once, I was a king. A fateful misstep forced me to transform into what you see.\" The carpenter listened, entranced by the tale unwinding amidst the echoes of the once flaming forest, knowing he was privy to something truly unknown and ineffable.",
+        "the carpenter Zen remembered a friend of his used to give him a potion that could transform animals Back To Human he's an open that potion let's drag and drink it suddenly the dragon transformed you come back into a human and it turned out he is Donald Trump and then why did you step on that rock the Trump said because someone was trying to assassinate me I had to run away now I have to go back to my president debate I'm winning this one and thank you carpenter 044 has been nominated as the head of the defense department and go with Trump to the Washington DC",
+        "the carpenter gone wild after seeing that the dragon transformed into Trump so basically he was always against Trump and after knowing that he transformed Dragon to Trump and he will run for the presidential election so he was really frustrated so he was trying to get a hold of trump and not and not letting him go to the Washington DC",
+        "The carpenter, filled with a sense of unknown trepidation and regret for turning dragon back to Trump, decided to rummage through his trove of enchanting potions. He was on a mission; a route that might bring a shocking revelation.",
+        "what's the capital of succeeded he successfully transformed the Trump back to the dragon while he was sleeping the next day when Harris was debating at University of Virginia a dragon flew in and reside on the debate debate stage using his Dragon Wars announcing his return the audience was shot but his support right races he won the nomination he won the election as the newest president",
+        "has Trump won the election so the carpenter wasn't that much happy so he flew to Washington DC with his ancient magic X and try to send Trump but there was a high-level security so he couldn't do that so after that he had another person that could make him invisible and then he entered into the presidential home then as soon as Trump"
+    ],
+    "agent_contributions": {
+        "sam": [
+            "In a richly verdant kingdom, nestled amongst the towering wood, a generous old carpenter lived. Coveted for his splendid craftsmanship, he was known for his creations, laden with charm and unfathomable skill.\n\n...",
+            "In a voice, subdued by eons of sorrow, the dragon started, \"Once, I was a king. A fateful misstep forced me to transform into what you see.\" The carpenter listened, entranced by the tale unwinding amidst the echoes of the once flaming forest, knowing he was privy to something truly unknown and ineffable.",
+            "The carpenter, filled with a sense of unknown trepidation and regret for turning dragon back to Trump, decided to rummage through his trove of enchanting potions. He was on a mission; a route that might bring a shocking revelation."
+        ],
+        "jake": [
+            "one day one old carpenter was trying to find some trees he went to the forest there is a dragon lying there and the burning down all the trees the captain asked why are you burning down all the trees Dragon the dragon replied with words because I have nowhere to leave these trees are blocking my way comma said that is fine let me build a house for you then the carpenter build a house for the dragon and the dragon stopped Burning Down the whole Forest",
+            "the carpenter Zen remembered a friend of his used to give him a potion that could transform animals Back To Human he's an open that potion let's drag and drink it suddenly the dragon transformed you come back into a human and it turned out he is Donald Trump and then why did you step on that rock the Trump said because someone was trying to assassinate me I had to run away now I have to go back to my president debate I'm winning this one and thank you carpenter 044 has been nominated as the head of the defense department and go with Trump to the Washington DC",
+            "what's the capital of succeeded he successfully transformed the Trump back to the dragon while he was sleeping the next day when Harris was debating at University of Virginia a dragon flew in and reside on the debate debate stage using his Dragon Wars announcing his return the audience was shot but his support right races he won the nomination he won the election as the newest president"
+        ],
+        "king": [
+            "the dragon was amazed by the kindness of the carpenter so he tried to share his story like how he became a dragon so previously he didn't he wasn't a dragon so but when he was the king of the Kingdom so when he was going for a walk in the forest one day so she put he put step on him Rock and then he found out that like like that was somehow fires so and if he came up and told him that like he had done a video wrong job so he had to pay for it so she was cursed to become a dragon",
+            "the carpenter gone wild after seeing that the dragon transformed into Trump so basically he was always against Trump and after knowing that he transformed Dragon to Trump and he will run for the presidential election so he was really frustrated so he was trying to get a hold of trump and not and not letting him go to the Washington DC",
+            "has Trump won the election so the carpenter wasn't that much happy so he flew to Washington DC with his ancient magic X and try to send Trump but there was a high-level security so he couldn't do that so after that he had another person that could make him invisible and then he entered into the presidential home then as soon as Trump"
+        ]
+    },
+    "agent_selected_words": {
+        "sam": [
+            "Wood",
+            "transform",
+            "Unknown"
+        ],
+        "jake": [
+            "dragon",
+            "potion",
+            "Discover"
+        ],
+        "king": [
+            "Kindness",
+            "Wild",
+            "Ancient"
+        ]
+    },
+    "turns": [
+        "sam",
+        "jake",
+        "king",
+        "sam",
+        "jake",
+        "king",
+        "sam",
+        "jake",
+        "king"
+    ],
+    "robot_predicted_words": {
+        "jake": [
+            "Kindness",
+            "Unknown",
+            "Discover"
+        ]
+    }
+}

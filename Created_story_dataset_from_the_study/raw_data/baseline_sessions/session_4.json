@@ -1,0 +1,78 @@
+{
+    "session_string": "pid_8:pid_7:baseline",
+    "story_start_time": 1728510878.8926983,
+    "story_end_time": 1728511553.7132967,
+    "total_time": 674.8205983638763,
+    "total_reward": 49.800000000000004,
+    "robot_theme": "fairy tale",
+    "participant_1_theme": "mystery",
+    "participant_2_theme": "adventure",
+    "words": [
+        "transform",
+        "curse",
+        "Dark",
+        "Evidence",
+        "Mountain",
+        "Unknown",
+        "Strange",
+        "Discover",
+        "potion"
+    ],
+    "story": [
+        "In the mystic kingdom of Azuria,\na wizard could transform anything.",
+        "the wizard lived on the mountains deep within the forest and he didn't like to interact with anyone anyone who passed through his domain word incur his rat he lived with his pet wolf",
+        "one day he was working on his magic and suddenly he heard a strange noise so he got out of his cave or Kingdom and then he found a small baby it was crying he actually heard his crying sound then at first he was very angry because he was very disturbed by its Norris then he wanted to transform it into a rock but suddenly he felt that okay maybe it's not necessary I can skip the baby and use it in my advantage",
+        "The wizard decided to create a potion, \nto communicate with the infant without emotion.",
+        "as soon as the the infant rank the potion it started speaking strange language it was almost gibberish but it felt like the infant was speaking some language someone known language upon closer inspection the wizard finally decoded the language",
+        "the wizard discovered that the baby was saying I'm hungry please give me some food as soon as possible but it was dark outside so the wizard couldn't do anything till so he decided to tell until the morning in the meanwhile the baby was very hungry so now the now is the Wizards task to think how he can manage the child survive through the night",
+        "In desperation, the wizard cast a curse,\nTo summon fruit, lest hunger get worse.\nBut the spell, alas, was reversed!",
+        "there was a prophetic voice which revealed that the spell was reversed the wizard asked for proof the wizard asked for evidence that the spell is reversed on him and suddenly he started feeling hungry himself",
+        "now he has to go outside but as it is very dark so he transformed his petals into a wolf shed light then he got to the market with the baby and for the first time in the last 20 or 30 years he interacted with normal people or general people then he feels like he's feeling very much are related or very much relaxed talking to the other people which surprised him is it the end of the darker of this magician"
+    ],
+    "agent_contributions": {
+        "sam": [
+            "In the mystic kingdom of Azuria,\na wizard could transform anything.",
+            "The wizard decided to create a potion, \nto communicate with the infant without emotion.",
+            "In desperation, the wizard cast a curse,\nTo summon fruit, lest hunger get worse.\nBut the spell, alas, was reversed!"
+        ],
+        "omkar": [
+            "the wizard lived on the mountains deep within the forest and he didn't like to interact with anyone anyone who passed through his domain word incur his rat he lived with his pet wolf",
+            "as soon as the the infant rank the potion it started speaking strange language it was almost gibberish but it felt like the infant was speaking some language someone known language upon closer inspection the wizard finally decoded the language",
+            "there was a prophetic voice which revealed that the spell was reversed the wizard asked for proof the wizard asked for evidence that the spell is reversed on him and suddenly he started feeling hungry himself"
+        ],
+        "cam": [
+            "one day he was working on his magic and suddenly he heard a strange noise so he got out of his cave or Kingdom and then he found a small baby it was crying he actually heard his crying sound then at first he was very angry because he was very disturbed by its Norris then he wanted to transform it into a rock but suddenly he felt that okay maybe it's not necessary I can skip the baby and use it in my advantage",
+            "the wizard discovered that the baby was saying I'm hungry please give me some food as soon as possible but it was dark outside so the wizard couldn't do anything till so he decided to tell until the morning in the meanwhile the baby was very hungry so now the now is the Wizards task to think how he can manage the child survive through the night",
+            "now he has to go outside but as it is very dark so he transformed his petals into a wolf shed light then he got to the market with the baby and for the first time in the last 20 or 30 years he interacted with normal people or general people then he feels like he's feeling very much are related or very much relaxed talking to the other people which surprised him is it the end of the darker of this magician"
+        ]
+    },
+    "agent_selected_words": {
+        "sam": [
+            "transform",
+            "potion",
+            "curse"
+        ],
+        "omkar": [
+            "Mountain",
+            "Unknown",
+            "Evidence"
+        ],
+        "cam": [
+            "Strange",
+            "Discover",
+            "Dark"
+        ]
+    },
+    "turns": [
+        "sam",
+        "omkar",
+        "cam",
+        "sam",
+        "omkar",
+        "cam",
+        "sam",
+        "omkar",
+        "cam"
+    ],
+    "robot_predicted_words": {}
+}

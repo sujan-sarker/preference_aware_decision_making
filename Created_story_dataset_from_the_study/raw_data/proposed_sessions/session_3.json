@@ -1,0 +1,84 @@
+{
+    "session_string": "pid_5:pid_6:proposed",
+    "story_start_time": 1728504383.6775541,
+    "story_end_time": 1728504798.8004868,
+    "total_time": 415.1229326725006,
+    "total_reward": 48.800000000000004,
+    "robot_theme": "teamwork",
+    "participant_1_theme": "fairy tale",
+    "participant_2_theme": "fairy tale",
+    "words": [
+        "Meet",
+        "curse",
+        "Together",
+        "Assist",
+        "Common",
+        "wizard",
+        "Wood",
+        "Agree",
+        "Partner"
+    ],
+    "story": [
+        "\"On a sunlit day, a team of players gathered. Together, they brainstormed a novel game strategy.\"",
+        "the game contained a result of most important player or part of the game and the goal of the game was the game involved in the Wizard and like all of them actually started bringing something on this strategy like how can they actually create a new game out of it",
+        "so they agreed upon a few steps and rules that should maintain the game but they couldn't agree on several characters of the game to the wizard was the main character but it needed some characters as well so they decided to sit on a meeting and think what the other characters should be",
+        "\"Bewildered, they pondered a curse for the Wizard,\" one proposed. \"A curse bound to nature, making him incredibly vulnerable to a certain element of the earth.\"",
+        "yeah the certain element of the earth which the wizard was incredibly at vulnerable to was would surprisingly he was actually like a wood would actually reduce his powers a lot and would make him vulnerable",
+        "next they decided to give the wizard a partner the partner will help the wizard to maneuver through his cars and element to the woods of the Earth",
+        "\"The partner, equipped to assist the Wizard, was crafted from the same wooden element. His duty, to help the wizard navigate these vulnerabilities. Next, the team had a new task, a particular gathering was in order.\"",
+        "they got it for a meet they thought that they should actually created some new players for the game and like okay there's a wizard and a partner for the wizard which would actually help me for get him through this but there was also another player another creature which was actually a fair which actually affected the wizard",
+        "eventually there is the common ground on the story and they planned on playing the game there are multiple characters like Wizards the wizard partner who had a cars and the common rules were also set up and now was only waiting for them to sit together and play the game"
+    ],
+    "agent_contributions": {
+        "sam": [
+            "\"On a sunlit day, a team of players gathered. Together, they brainstormed a novel game strategy.\"",
+            "\"Bewildered, they pondered a curse for the Wizard,\" one proposed. \"A curse bound to nature, making him incredibly vulnerable to a certain element of the earth.\"",
+            "\"The partner, equipped to assist the Wizard, was crafted from the same wooden element. His duty, to help the wizard navigate these vulnerabilities. Next, the team had a new task, a particular gathering was in order.\""
+        ],
+        "shyam": [
+            "the game contained a result of most important player or part of the game and the goal of the game was the game involved in the Wizard and like all of them actually started bringing something on this strategy like how can they actually create a new game out of it",
+            "yeah the certain element of the earth which the wizard was incredibly at vulnerable to was would surprisingly he was actually like a wood would actually reduce his powers a lot and would make him vulnerable",
+            "they got it for a meet they thought that they should actually created some new players for the game and like okay there's a wizard and a partner for the wizard which would actually help me for get him through this but there was also another player another creature which was actually a fair which actually affected the wizard"
+        ],
+        "ti": [
+            "so they agreed upon a few steps and rules that should maintain the game but they couldn't agree on several characters of the game to the wizard was the main character but it needed some characters as well so they decided to sit on a meeting and think what the other characters should be",
+            "next they decided to give the wizard a partner the partner will help the wizard to maneuver through his cars and element to the woods of the Earth",
+            "eventually there is the common ground on the story and they planned on playing the game there are multiple characters like Wizards the wizard partner who had a cars and the common rules were also set up and now was only waiting for them to sit together and play the game"
+        ]
+    },
+    "agent_selected_words": {
+        "sam": [
+            "Together",
+            "curse",
+            "Assist"
+        ],
+        "shyam": [
+            "wizard",
+            "Wood",
+            "Meet"
+        ],
+        "ti": [
+            "Agree",
+            "Partner",
+            "Common"
+        ]
+    },
+    "turns": [
+        "sam",
+        "shyam",
+        "ti",
+        "sam",
+        "shyam",
+        "ti",
+        "sam",
+        "shyam",
+        "ti"
+    ],
+    "robot_predicted_words": {
+        "shyam": [
+            "Agree",
+            "Wood",
+            "Meet"
+        ]
+    }
+}

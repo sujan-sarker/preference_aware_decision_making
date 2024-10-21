@@ -1,0 +1,78 @@
+{
+    "session_string": "pid_11:pid_12:baseline",
+    "story_start_time": 1728521100.1862192,
+    "story_end_time": 1728521455.002859,
+    "total_time": 354.8166399002075,
+    "total_reward": 60.2,
+    "robot_theme": "mystery",
+    "participant_1_theme": "adventure",
+    "participant_2_theme": "adventure",
+    "words": [
+        "Explore",
+        "Keyhole",
+        "Dark",
+        "Mask",
+        "Unknown",
+        "Island",
+        "Forest",
+        "Discover",
+        "Solve"
+    ],
+    "story": [
+        "In the grim cityscape,\nAmy begins to explore.",
+        "Amy starts to notice the Dark Forest and it has many secrets",
+        "is Amy continues to explore the forest she goes down into the unknown and she wants to solve the secrets",
+        "In a glade, she finds a door.\nIts keyhole pulsates with mystic energy.",
+        "Amy finds the key and the door when it's open takes her to a Mysterious Island",
+        "has Amy explores the island she discovers there's a riddle for her to solve",
+        "\"The riddle speaks of truth,\" Amy read,\nHer heart pulsing to solve the unsaid.",
+        "then soon after Amy solves the mystery",
+        "as a reward for solving the mystery the island gives her a mask"
+    ],
+    "agent_contributions": {
+        "sam": [
+            "In the grim cityscape,\nAmy begins to explore.",
+            "In a glade, she finds a door.\nIts keyhole pulsates with mystic energy.",
+            "\"The riddle speaks of truth,\" Amy read,\nHer heart pulsing to solve the unsaid."
+        ],
+        "gus": [
+            "Amy starts to notice the Dark Forest and it has many secrets",
+            "Amy finds the key and the door when it's open takes her to a Mysterious Island",
+            "then soon after Amy solves the mystery"
+        ],
+        "sarah": [
+            "is Amy continues to explore the forest she goes down into the unknown and she wants to solve the secrets",
+            "has Amy explores the island she discovers there's a riddle for her to solve",
+            "as a reward for solving the mystery the island gives her a mask"
+        ]
+    },
+    "agent_selected_words": {
+        "sam": [
+            "Explore",
+            "Keyhole",
+            "Solve"
+        ],
+        "gus": [
+            "Dark",
+            "Forest",
+            "Island"
+        ],
+        "sarah": [
+            "Unknown",
+            "Discover",
+            "Mask"
+        ]
+    },
+    "turns": [
+        "sam",
+        "gus",
+        "sarah",
+        "sam",
+        "gus",
+        "sarah",
+        "sam",
+        "gus",
+        "sarah"
+    ],
+    "robot_predicted_words": {}
+}

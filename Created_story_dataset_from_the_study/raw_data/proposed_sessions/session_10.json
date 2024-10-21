@@ -1,0 +1,84 @@
+{
+    "session_string": "pid_20:pid_19:proposed",
+    "story_start_time": 1728578021.4701426,
+    "story_end_time": 1728578442.8446047,
+    "total_time": 421.37446212768555,
+    "total_reward": 45.199999999999996,
+    "robot_theme": "teamwork",
+    "participant_1_theme": "teamwork",
+    "participant_2_theme": "adventure",
+    "words": [
+        "Unknown",
+        "Common",
+        "Partner",
+        "Treasure",
+        "Collaborate",
+        "Map",
+        "Fellowship",
+        "Forest",
+        "Island"
+    ],
+    "story": [
+        "\"In a bustling city, a hardworking group of landscapers strived to create spaces where nature could flourish. Their collective dream was something grander, an oasis amidst skyscrapers, teeming with tall trees and verdant ecology.\"",
+        "a girl named Kelsey wanted to join the team along with her partner Tommy to achieve their dream",
+        "the collaborated with others and dreamed of achieving something great in the Oasis that they have planned",
+        "\"Kelsey picked up the well-worn map, tracing the planned oasis with a determined finger. Tommy watched her, both of them aware that each line represented their unity and shared dreams.\"",
+        "in the map so that they have to go through a forest so they were planning what to do when they will go from there and they knew that they had to show their bravery to go from the forest so they wanted to start early their journey and they wanted to pass the forest within the daytime",
+        "but they had no idea that after the forest they are lied and island with treacherous evil people who were waiting there to loot them and take everything from them and leave them in misery",
+        "\"Pooling their common resources and strengths, Kelsey and Tommy were unified more than ever,\" the team stepped in unison, marching towards their first challenge - the ominous forest. \"We're closer than ever,\" Kelsey observed, her eyes twinkling, hinting at a grand prize awaiting them beyond their trials \u2013 a reward worth all the hardships.",
+        "dear Fellowship could take them to their destination so they were very happy at that and they were crying tears because they were so happy that they could finally with their common resources and with their togetherness they could finally reach their destination and what they were when wanting from the beginning",
+        "after reaching their destination they were really happy with what they achieved Kelsey was in tears and with joy and that is a treasure was the bonding they have created which will last forever"
+    ],
+    "agent_contributions": {
+        "sam": [
+            "\"In a bustling city, a hardworking group of landscapers strived to create spaces where nature could flourish. Their collective dream was something grander, an oasis amidst skyscrapers, teeming with tall trees and verdant ecology.\"",
+            "\"Kelsey picked up the well-worn map, tracing the planned oasis with a determined finger. Tommy watched her, both of them aware that each line represented their unity and shared dreams.\"",
+            "\"Pooling their common resources and strengths, Kelsey and Tommy were unified more than ever,\" the team stepped in unison, marching towards their first challenge - the ominous forest. \"We're closer than ever,\" Kelsey observed, her eyes twinkling, hinting at a grand prize awaiting them beyond their trials \u2013 a reward worth all the hardships."
+        ],
+        "afrina": [
+            "a girl named Kelsey wanted to join the team along with her partner Tommy to achieve their dream",
+            "in the map so that they have to go through a forest so they were planning what to do when they will go from there and they knew that they had to show their bravery to go from the forest so they wanted to start early their journey and they wanted to pass the forest within the daytime",
+            "dear Fellowship could take them to their destination so they were very happy at that and they were crying tears because they were so happy that they could finally with their common resources and with their togetherness they could finally reach their destination and what they were when wanting from the beginning"
+        ],
+        "fahim": [
+            "the collaborated with others and dreamed of achieving something great in the Oasis that they have planned",
+            "but they had no idea that after the forest they are lied and island with treacherous evil people who were waiting there to loot them and take everything from them and leave them in misery",
+            "after reaching their destination they were really happy with what they achieved Kelsey was in tears and with joy and that is a treasure was the bonding they have created which will last forever"
+        ]
+    },
+    "agent_selected_words": {
+        "sam": [
+            "Unknown",
+            "Map",
+            "Common"
+        ],
+        "afrina": [
+            "Partner",
+            "Forest",
+            "Fellowship"
+        ],
+        "fahim": [
+            "Collaborate",
+            "Island",
+            "Treasure"
+        ]
+    },
+    "turns": [
+        "sam",
+        "afrina",
+        "fahim",
+        "sam",
+        "afrina",
+        "fahim",
+        "sam",
+        "afrina",
+        "fahim"
+    ],
+    "robot_predicted_words": {
+        "afrina": [
+            "Forest",
+            "Fellowship",
+            "Treasure"
+        ]
+    }
+}

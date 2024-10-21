@@ -1,0 +1,84 @@
+{
+    "session_string": "pid_1:pid_2:proposed",
+    "story_start_time": 1728685966.5127923,
+    "story_end_time": 1728686399.21866,
+    "total_time": 432.705867767334,
+    "total_reward": 57.599999999999994,
+    "robot_theme": "adventure",
+    "participant_1_theme": "fairy tale",
+    "participant_2_theme": "adventure",
+    "words": [
+        "Danger",
+        "Ancient",
+        "wizard",
+        "magic",
+        "Treasure",
+        "transform",
+        "Forest",
+        "Mountain",
+        "Love"
+    ],
+    "story": [
+        "\"In a realm of the forgotten, where Danger lingered like a shadow, two brave explorers treaded lightly. An ancient prophecy spoke of a change, a drastic alteration, should they survive these ominous lands.\"",
+        "the ancient prophecy told them that their journey is going to bring them to a brighter day happier days there all of their sufferings and their property is going to go away if they can find the hidden treasure ahead",
+        "the map to the treasure was hidden way behind a gift that was situated in a Fire Mountain and that's why they began their journey to find the map that will lead them to the trailer",
+        "\"Their hopes hung on a single thread of Magic, the mysterious incantation said to awaken the Fire Mountain. Wrapped in enigmatic whispers, it was believed to cause an extraordinary shift, reshaping what was deemed impossible.\"",
+        "through the forest they started their journey and days past nights passed after a long journey they reached to the destination",
+        "just when they will reach the mountain a wizard appeared who actually wanted to treat The Travelers and the history was not easy because it was in form of a love",
+        "\"As they threaded the perilous paths of the Fire Mountain, their trust in each other became their anchor. The daunting ascent was filled with tests, but the cord of unwavering devotion between them, unknowingly, seemed to grow stronger.\"",
+        "the wizard transformed transform both of them into to goats that he wanted to sacrifice for the love of the Wizard's life",
+        "what's the weather was not successful because he was not into love of his life he was only he had only love for the trailers that made their life more miserable"
+    ],
+    "agent_contributions": {
+        "sam": [
+            "\"In a realm of the forgotten, where Danger lingered like a shadow, two brave explorers treaded lightly. An ancient prophecy spoke of a change, a drastic alteration, should they survive these ominous lands.\"",
+            "\"Their hopes hung on a single thread of Magic, the mysterious incantation said to awaken the Fire Mountain. Wrapped in enigmatic whispers, it was believed to cause an extraordinary shift, reshaping what was deemed impossible.\"",
+            "\"As they threaded the perilous paths of the Fire Mountain, their trust in each other became their anchor. The daunting ascent was filled with tests, but the cord of unwavering devotion between them, unknowingly, seemed to grow stronger.\""
+        ],
+        "josh": [
+            "the ancient prophecy told them that their journey is going to bring them to a brighter day happier days there all of their sufferings and their property is going to go away if they can find the hidden treasure ahead",
+            "through the forest they started their journey and days past nights passed after a long journey they reached to the destination",
+            "the wizard transformed transform both of them into to goats that he wanted to sacrifice for the love of the Wizard's life"
+        ],
+        "John": [
+            "the map to the treasure was hidden way behind a gift that was situated in a Fire Mountain and that's why they began their journey to find the map that will lead them to the trailer",
+            "just when they will reach the mountain a wizard appeared who actually wanted to treat The Travelers and the history was not easy because it was in form of a love",
+            "what's the weather was not successful because he was not into love of his life he was only he had only love for the trailers that made their life more miserable"
+        ]
+    },
+    "agent_selected_words": {
+        "sam": [
+            "Danger",
+            "magic",
+            "Mountain"
+        ],
+        "josh": [
+            "Ancient",
+            "Forest",
+            "transform"
+        ],
+        "John": [
+            "Treasure",
+            "wizard",
+            "Love"
+        ]
+    },
+    "turns": [
+        "sam",
+        "josh",
+        "John",
+        "sam",
+        "josh",
+        "John",
+        "sam",
+        "josh",
+        "John"
+    ],
+    "robot_predicted_words": {
+        "josh": [
+            "transform",
+            "transform",
+            "Love"
+        ]
+    }
+}

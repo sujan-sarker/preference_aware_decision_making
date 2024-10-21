@@ -1,0 +1,84 @@
+{
+    "session_string": "pid_32:pid_31:proposed",
+    "story_start_time": 1728660115.2702327,
+    "story_end_time": 1728660701.923648,
+    "total_time": 586.6534154415131,
+    "total_reward": 54.400000000000006,
+    "robot_theme": "fairy tale",
+    "participant_1_theme": "mystery",
+    "participant_2_theme": "adventure",
+    "words": [
+        "Question",
+        "Keyhole",
+        "Explore",
+        "Love",
+        "spell",
+        "Shadow",
+        "Truth",
+        "Wild",
+        "Ancient"
+    ],
+    "story": [
+        "\"In the realms of Elfinwood, a fairy named Luna had a question, 'where was the hidden magical tree?' This set her spirit afire for an unsolved mystery.\"",
+        "the magical tree was an ancient Oak said to have the powers of granting a wish and Luna desperately wanted to wish for something and set out to find the tree",
+        "Luna set out to explore the surroundings and try to find the ancient oak tree but she quickly realized that as she was walking the forest appeared to be magical as well and she kept ending up right back where she started",
+        "\"In her frustration, Luna sought help from the forest Shadows, the silent whisperers of Elfinwood. They unveiled a coded riddle - 'Unlock the heart, through secrets spoken from the start,'\"",
+        "Luna got frustrated with the riddle what could unlock the heart mean she thought and then she stumbled upon a door hidden within the forest oh unlock it must mean Keyhole Sol Luna began to search for a key",
+        "while on her adventure to find the key Luna found a scroll when she opened it she saw that it's a spell that she can cast to open any door with that she headed back towards the door",
+        "As Luna chanted the spell, the ornate door opened with an eerie creak. She was greeted by an enigmatic entity, the Guardian of Truth dwelling within. \"Only by revealing what lies in the core of your being can the path to the ancient oak be unveiled,\" he instructed. Luna was perplexed, she had exerted all of her mind to this quest, yet had overlooked her heart. Her mind was silent but her heart was teeming with a radiant warmth, a sensation tender yet potent. She decided to delve deeper into that feeling.",
+        "Luna was the price upon discovering the guardian of Truth and didn't know how to handle the situation but she desperately wanted to find the magical tree Sol Luna decided to whisper her deepest secret to the guardian of Truth which allowed her to open her heart and unveiled the path the path cut through a wild jungle",
+        "with the path now revealed Luna walked through the jungle exploring around for the ancient oak tree after many hours of searching she finally found the trees she's so loved"
+    ],
+    "agent_contributions": {
+        "sam": [
+            "\"In the realms of Elfinwood, a fairy named Luna had a question, 'where was the hidden magical tree?' This set her spirit afire for an unsolved mystery.\"",
+            "\"In her frustration, Luna sought help from the forest Shadows, the silent whisperers of Elfinwood. They unveiled a coded riddle - 'Unlock the heart, through secrets spoken from the start,'\"",
+            "As Luna chanted the spell, the ornate door opened with an eerie creak. She was greeted by an enigmatic entity, the Guardian of Truth dwelling within. \"Only by revealing what lies in the core of your being can the path to the ancient oak be unveiled,\" he instructed. Luna was perplexed, she had exerted all of her mind to this quest, yet had overlooked her heart. Her mind was silent but her heart was teeming with a radiant warmth, a sensation tender yet potent. She decided to delve deeper into that feeling."
+        ],
+        "mahati": [
+            "the magical tree was an ancient Oak said to have the powers of granting a wish and Luna desperately wanted to wish for something and set out to find the tree",
+            "Luna got frustrated with the riddle what could unlock the heart mean she thought and then she stumbled upon a door hidden within the forest oh unlock it must mean Keyhole Sol Luna began to search for a key",
+            "Luna was the price upon discovering the guardian of Truth and didn't know how to handle the situation but she desperately wanted to find the magical tree Sol Luna decided to whisper her deepest secret to the guardian of Truth which allowed her to open her heart and unveiled the path the path cut through a wild jungle"
+        ],
+        "nick": [
+            "Luna set out to explore the surroundings and try to find the ancient oak tree but she quickly realized that as she was walking the forest appeared to be magical as well and she kept ending up right back where she started",
+            "while on her adventure to find the key Luna found a scroll when she opened it she saw that it's a spell that she can cast to open any door with that she headed back towards the door",
+            "with the path now revealed Luna walked through the jungle exploring around for the ancient oak tree after many hours of searching she finally found the trees she's so loved"
+        ]
+    },
+    "agent_selected_words": {
+        "sam": [
+            "Question",
+            "Shadow",
+            "Truth"
+        ],
+        "mahati": [
+            "Ancient",
+            "Keyhole",
+            "Wild"
+        ],
+        "nick": [
+            "Explore",
+            "spell",
+            "Love"
+        ]
+    },
+    "turns": [
+        "sam",
+        "mahati",
+        "nick",
+        "sam",
+        "mahati",
+        "nick",
+        "sam",
+        "mahati",
+        "nick"
+    ],
+    "robot_predicted_words": {
+        "mahati": [
+            "Explore",
+            "spell",
+            "Love"
+        ]
+    }
+}

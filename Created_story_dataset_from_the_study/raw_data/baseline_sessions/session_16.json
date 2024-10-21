@@ -1,0 +1,78 @@
+{
+    "session_string": "pid_32:pid_31:baseline",
+    "story_start_time": 1728661382.1781082,
+    "story_end_time": 1728661984.2935913,
+    "total_time": 602.115483045578,
+    "total_reward": 59.800000000000004,
+    "robot_theme": "fairy tale",
+    "participant_1_theme": "mystery",
+    "participant_2_theme": "adventure",
+    "words": [
+        "Truth",
+        "Riddle",
+        "Clue",
+        "Discover",
+        "Puzzle",
+        "transform",
+        "Explore",
+        "Map",
+        "Wild"
+    ],
+    "story": [
+        "In a forgotten kingdom,\nA wizard could transform anything.",
+        "the wizard wanted to become the most powerful person in the kingdom and he tried to find a spell to do this but the spell remained a puzzle",
+        "since he couldn't figure out how to cast the spell he set out to explore the kingdom in search of anyone who could help him with his task",
+        "On his journey, he discovered\na mystical forest known only in legend.",
+        "when is stepped inside the mystical Forest a map appeared in front of him which would guide him to the answer of his problems",
+        "wow looking through the forests he encountered a gnome who promised that he could help the Wizards figure out how to become the most powerful person in the Kingdom but in order to do so he had to answer the Gnomes riddle",
+        "The gnome's riddle was a clue,\nHeld key to the spell he sought.\nWith this, power he'd accrue.",
+        "the wizard was very smart and he answered the Gnomes riddle with ease therefore the gnome decided to help him find the answer and as they descended deeper into the forest the things they encountered got Wilder with this the wizard began to question why he even wanted to become the most powerful person in the first place",
+        "after several near-death experiences in the forests the Wizards learned the truth of the Gnomes intentions which were to try and defeat the wizard and steal all of his spells with this he cast a spell escaped the forests and continued on his journey to become the most powerful in the Kingdom"
+    ],
+    "agent_contributions": {
+        "sam": [
+            "In a forgotten kingdom,\nA wizard could transform anything.",
+            "On his journey, he discovered\na mystical forest known only in legend.",
+            "The gnome's riddle was a clue,\nHeld key to the spell he sought.\nWith this, power he'd accrue."
+        ],
+        "mahati": [
+            "the wizard wanted to become the most powerful person in the kingdom and he tried to find a spell to do this but the spell remained a puzzle",
+            "when is stepped inside the mystical Forest a map appeared in front of him which would guide him to the answer of his problems",
+            "the wizard was very smart and he answered the Gnomes riddle with ease therefore the gnome decided to help him find the answer and as they descended deeper into the forest the things they encountered got Wilder with this the wizard began to question why he even wanted to become the most powerful person in the first place"
+        ],
+        "nick": [
+            "since he couldn't figure out how to cast the spell he set out to explore the kingdom in search of anyone who could help him with his task",
+            "wow looking through the forests he encountered a gnome who promised that he could help the Wizards figure out how to become the most powerful person in the Kingdom but in order to do so he had to answer the Gnomes riddle",
+            "after several near-death experiences in the forests the Wizards learned the truth of the Gnomes intentions which were to try and defeat the wizard and steal all of his spells with this he cast a spell escaped the forests and continued on his journey to become the most powerful in the Kingdom"
+        ]
+    },
+    "agent_selected_words": {
+        "sam": [
+            "transform",
+            "Discover",
+            "Clue"
+        ],
+        "mahati": [
+            "Puzzle",
+            "Map",
+            "Wild"
+        ],
+        "nick": [
+            "Explore",
+            "Riddle",
+            "Truth"
+        ]
+    },
+    "turns": [
+        "sam",
+        "mahati",
+        "nick",
+        "sam",
+        "mahati",
+        "nick",
+        "sam",
+        "mahati",
+        "nick"
+    ],
+    "robot_predicted_words": {}
+}

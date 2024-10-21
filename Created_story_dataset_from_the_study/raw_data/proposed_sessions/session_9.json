@@ -1,0 +1,84 @@
+{
+    "session_string": "pid_17:pid_18:proposed",
+    "story_start_time": 1728573529.2248967,
+    "story_end_time": 1728573928.7907374,
+    "total_time": 399.56584072113037,
+    "total_reward": 39.199999999999996,
+    "robot_theme": "teamwork",
+    "participant_1_theme": "teamwork",
+    "participant_2_theme": "mystery",
+    "words": [
+        "Assist",
+        "Truth",
+        "Keyhole",
+        "Help",
+        "Secret",
+        "Puzzle",
+        "Support",
+        "Strange",
+        "Question"
+    ],
+    "story": [
+        "\"On a strange but beautiful island, a group of explorers work together. Their surroundings are peculiar, requiring unique solutions.\"",
+        "somewhere in this island there is a it has a hidden treasure they need to solve the puzzles on a map to find the charger",
+        "there were so many questions there like if the map is trustable",
+        "\"In our unyielding pursuit, we assist each other, communicate and solve the enigmas that plague us,\" said the team leader, his eyes dancing intriguingly over the map. \"Remember, it's not just a map. It holds the key to something more than meets the eye.\"",
+        "they started working toward the center of the island and along the way they helped each other to overcome many obstacles and eventually they reach the cave where the treasure might be buried inside",
+        "at the end of the cage they found a box but the keyhole was something like a puzzle",
+        "\"In times like these, our support for each other proves vital,\" said one explorer, holding the puzzling keyhole, \"Together, we unravel not just the artifact, but also undeniable realities.\" He gazed pensively at the keyhole, which held undiscovered secrets and unuttered revelations.",
+        "13 wins over all the secret places that's my half the key and eventually they have found the key under a big rock",
+        "they found the key and they used the key to open the box it opened the box but the truth is the box was empty"
+    ],
+    "agent_contributions": {
+        "sam": [
+            "\"On a strange but beautiful island, a group of explorers work together. Their surroundings are peculiar, requiring unique solutions.\"",
+            "\"In our unyielding pursuit, we assist each other, communicate and solve the enigmas that plague us,\" said the team leader, his eyes dancing intriguingly over the map. \"Remember, it's not just a map. It holds the key to something more than meets the eye.\"",
+            "\"In times like these, our support for each other proves vital,\" said one explorer, holding the puzzling keyhole, \"Together, we unravel not just the artifact, but also undeniable realities.\" He gazed pensively at the keyhole, which held undiscovered secrets and unuttered revelations."
+        ],
+        "ethan": [
+            "somewhere in this island there is a it has a hidden treasure they need to solve the puzzles on a map to find the charger",
+            "they started working toward the center of the island and along the way they helped each other to overcome many obstacles and eventually they reach the cave where the treasure might be buried inside",
+            "13 wins over all the secret places that's my half the key and eventually they have found the key under a big rock"
+        ],
+        "hossein": [
+            "there were so many questions there like if the map is trustable",
+            "at the end of the cage they found a box but the keyhole was something like a puzzle",
+            "they found the key and they used the key to open the box it opened the box but the truth is the box was empty"
+        ]
+    },
+    "agent_selected_words": {
+        "sam": [
+            "Strange",
+            "Assist",
+            "Support"
+        ],
+        "ethan": [
+            "Puzzle",
+            "Help",
+            "Secret"
+        ],
+        "hossein": [
+            "Question",
+            "Keyhole",
+            "Truth"
+        ]
+    },
+    "turns": [
+        "sam",
+        "ethan",
+        "hossein",
+        "sam",
+        "ethan",
+        "hossein",
+        "sam",
+        "ethan",
+        "hossein"
+    ],
+    "robot_predicted_words": {
+        "ethan": [
+            "Help",
+            "Secret",
+            "Truth"
+        ]
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "session_string": "pid_17:pid_18:baseline",
+    "story_start_time": 1728571846.4628117,
+    "story_end_time": 1728572468.4451709,
+    "total_time": 621.9823591709137,
+    "total_reward": 57.400000000000006,
+    "robot_theme": "teamwork",
+    "participant_1_theme": "adventure",
+    "participant_2_theme": "adventure",
+    "words": [
+        "Follow",
+        "Together",
+        "Assist",
+        "Journey",
+        "Help",
+        "Danger",
+        "Explore",
+        "Treasure",
+        "Collaborate"
+    ],
+    "story": [
+        "In Beaverland, Earl & Bob collaborate.\nThey make a dam, sharing tasks.",
+        "the goal of Earth and Bob is trying to find the treasure that is hidden somewhere and although this might be hard they believe if they work with each other actively they will be able to reach their goal and find the charger",
+        "the journey starts when Earl and Bob met each other at a bar they were talking about treasure map they were as they had seen and in the in a book",
+        "\"Got the map?\" Earl asks. \n\"Yep, let's assist each other,\" responds Bob.",
+        "the map shows fuel possible locations for the treasure one is the mountain when is the desert and the other one is the beach how about we start with the mountain or said",
+        "they checked all the routes together on the map and they were looking for the best way to do this",
+        "\"Need help climbing, Earl?\" Bob offers.\n\"With teamwork, the peak is ours,\" Earl smiles.",
+        "they started following them browse to the mountain and auto is required some climbing they eventually reach the top of the mountain",
+        "they passed all the danger but after they got there they saw a smiley face on the cliff and that was a scam that they realize that this is a scam and map"
+    ],
+    "agent_contributions": {
+        "sam": [
+            "In Beaverland, Earl & Bob collaborate.\nThey make a dam, sharing tasks.",
+            "\"Got the map?\" Earl asks. \n\"Yep, let's assist each other,\" responds Bob.",
+            "\"Need help climbing, Earl?\" Bob offers.\n\"With teamwork, the peak is ours,\" Earl smiles."
+        ],
+        "ethan": [
+            "the goal of Earth and Bob is trying to find the treasure that is hidden somewhere and although this might be hard they believe if they work with each other actively they will be able to reach their goal and find the charger",
+            "the map shows fuel possible locations for the treasure one is the mountain when is the desert and the other one is the beach how about we start with the mountain or said",
+            "they started following them browse to the mountain and auto is required some climbing they eventually reach the top of the mountain"
+        ],
+        "hossein": [
+            "the journey starts when Earl and Bob met each other at a bar they were talking about treasure map they were as they had seen and in the in a book",
+            "they checked all the routes together on the map and they were looking for the best way to do this",
+            "they passed all the danger but after they got there they saw a smiley face on the cliff and that was a scam that they realize that this is a scam and map"
+        ]
+    },
+    "agent_selected_words": {
+        "sam": [
+            "Collaborate",
+            "Assist",
+            "Help"
+        ],
+        "ethan": [
+            "Treasure",
+            "Explore",
+            "Follow"
+        ],
+        "hossein": [
+            "Journey",
+            "Together",
+            "Danger"
+        ]
+    },
+    "turns": [
+        "sam",
+        "ethan",
+        "hossein",
+        "sam",
+        "ethan",
+        "hossein",
+        "sam",
+        "ethan",
+        "hossein"
+    ],
+    "robot_predicted_words": {}
+}

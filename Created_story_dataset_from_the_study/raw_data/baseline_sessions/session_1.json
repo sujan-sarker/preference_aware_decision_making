@@ -1,0 +1,78 @@
+{
+    "session_string": "pid_1:pid_2:baseline",
+    "story_start_time": 1728485132.9528813,
+    "story_end_time": 1728485536.308879,
+    "total_time": 403.35599756240845,
+    "total_reward": 56.4,
+    "robot_theme": "adventure",
+    "participant_1_theme": "fairy tale",
+    "participant_2_theme": "adventure",
+    "words": [
+        "Island",
+        "magic",
+        "Map",
+        "potion",
+        "dragon",
+        "spell",
+        "transform",
+        "Wish",
+        "Love"
+    ],
+    "story": [
+        "\"Aloof on an island, Jim found a map.\"",
+        "the map Lakeway ancient razor",
+        "Deepak to the trailer led to a big dragon which wanted to kill anyone passing through that part",
+        "\"Map glowing, he transforms into a knight. Confronting the dragon, his heart races.\"",
+        "the magic spell that turned him into a night were made him a brave Soldier and he fought the dragon with very with every with a big sword and being raped but still the dragon became a Victorious over him",
+        "what did dragon was not the only spell that to in their way they were more magic spells that need to be broken before going there",
+        "\"He finds a potion, drinks. Revived, towards victory he now thinks.\"",
+        "as becoming Victoria's he now has all the richest in the world but now he wishes to be in love with the love of his life",
+        "but love cannot be found without any spell so he didn't find his love"
+    ],
+    "agent_contributions": {
+        "sam": [
+            "\"Aloof on an island, Jim found a map.\"",
+            "\"Map glowing, he transforms into a knight. Confronting the dragon, his heart races.\"",
+            "\"He finds a potion, drinks. Revived, towards victory he now thinks.\""
+        ],
+        "josh": [
+            "the map Lakeway ancient razor",
+            "the magic spell that turned him into a night were made him a brave Soldier and he fought the dragon with very with every with a big sword and being raped but still the dragon became a Victorious over him",
+            "as becoming Victoria's he now has all the richest in the world but now he wishes to be in love with the love of his life"
+        ],
+        "John": [
+            "Deepak to the trailer led to a big dragon which wanted to kill anyone passing through that part",
+            "what did dragon was not the only spell that to in their way they were more magic spells that need to be broken before going there",
+            "but love cannot be found without any spell so he didn't find his love"
+        ]
+    },
+    "agent_selected_words": {
+        "sam": [
+            "Island",
+            "transform",
+            "potion"
+        ],
+        "josh": [
+            "Map",
+            "magic",
+            "Wish"
+        ],
+        "John": [
+            "dragon",
+            "spell",
+            "Love"
+        ]
+    },
+    "turns": [
+        "sam",
+        "josh",
+        "John",
+        "sam",
+        "josh",
+        "John",
+        "sam",
+        "josh",
+        "John"
+    ],
+    "robot_predicted_words": {}
+}

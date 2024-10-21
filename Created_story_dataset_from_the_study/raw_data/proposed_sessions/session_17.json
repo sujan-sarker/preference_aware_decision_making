@@ -1,0 +1,84 @@
+{
+    "session_string": "pid_33:pid_34:proposed",
+    "story_start_time": 1728666870.3973744,
+    "story_end_time": 1728667287.2688465,
+    "total_time": 416.87147212028503,
+    "total_reward": 38.0,
+    "robot_theme": "teamwork",
+    "participant_1_theme": "teamwork",
+    "participant_2_theme": "adventure",
+    "words": [
+        "Wild",
+        "Lead",
+        "Forest",
+        "Trust",
+        "Help",
+        "Fellowship",
+        "Mountain",
+        "Join",
+        "Collaborate"
+    ],
+    "story": [
+        "In a bustling city, a young boy named Sam decided to join the local baseball team. He was eager, albeit slightly anxious, to contribute to the team's success.",
+        "to prove that he can successfully collaborate with his teammate he must take care adventurous Journey with his team members",
+        "even then he was ready to do so to take advantage of Johnny because he was hoping to get an athletic Fellowship for his college degree",
+        "To show his commitment, Sam stayed late after practice one day, eager to help the team perfect their techniques. He believed that in order to succeed, everyone needed to rely on each other's strengths.",
+        "so one day when he was the returning his home after finishing his late practice session in night he saw him very very wild animal in the road there just passed before him",
+        "he recognized the animal as mountain lion which is not supposed to be at the forest area where he resides so he was a bit anxious to think where it comes from",
+        "Realizing his teammates might be in danger too, Sam decided to lead a discussion about the mountain lion. He believed their experience as a baseball team could help them tackle unusual challenges, even those lurking beyond the field's lights.",
+        "his baseball team made have passed on him mean same so he believes his story and inform the other people in the local area about the Tiger Mountain tiger",
+        "the local area people along with his baseball team mates 10 team to let them know and to let them alert for this mountain lion and they have decided to be to be cautious when they're going to pass this Forest Area"
+    ],
+    "agent_contributions": {
+        "sam": [
+            "In a bustling city, a young boy named Sam decided to join the local baseball team. He was eager, albeit slightly anxious, to contribute to the team's success.",
+            "To show his commitment, Sam stayed late after practice one day, eager to help the team perfect their techniques. He believed that in order to succeed, everyone needed to rely on each other's strengths.",
+            "Realizing his teammates might be in danger too, Sam decided to lead a discussion about the mountain lion. He believed their experience as a baseball team could help them tackle unusual challenges, even those lurking beyond the field's lights."
+        ],
+        "deb": [
+            "to prove that he can successfully collaborate with his teammate he must take care adventurous Journey with his team members",
+            "so one day when he was the returning his home after finishing his late practice session in night he saw him very very wild animal in the road there just passed before him",
+            "his baseball team made have passed on him mean same so he believes his story and inform the other people in the local area about the Tiger Mountain tiger"
+        ],
+        "mahir": [
+            "even then he was ready to do so to take advantage of Johnny because he was hoping to get an athletic Fellowship for his college degree",
+            "he recognized the animal as mountain lion which is not supposed to be at the forest area where he resides so he was a bit anxious to think where it comes from",
+            "the local area people along with his baseball team mates 10 team to let them know and to let them alert for this mountain lion and they have decided to be to be cautious when they're going to pass this Forest Area"
+        ]
+    },
+    "agent_selected_words": {
+        "sam": [
+            "Join",
+            "Help",
+            "Lead"
+        ],
+        "deb": [
+            "Collaborate",
+            "Wild",
+            "Trust"
+        ],
+        "mahir": [
+            "Fellowship",
+            "Mountain",
+            "Forest"
+        ]
+    },
+    "turns": [
+        "sam",
+        "deb",
+        "mahir",
+        "sam",
+        "deb",
+        "mahir",
+        "sam",
+        "deb",
+        "mahir"
+    ],
+    "robot_predicted_words": {
+        "deb": [
+            "Lead",
+            "Trust",
+            "Forest"
+        ]
+    }
+}

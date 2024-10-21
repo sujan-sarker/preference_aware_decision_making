@@ -1,0 +1,78 @@
+{
+    "session_string": "pid_21:pid_22:baseline",
+    "story_start_time": 1728586064.139208,
+    "story_end_time": 1728586720.0196264,
+    "total_time": 655.8804183006287,
+    "total_reward": 51.2,
+    "robot_theme": "mystery",
+    "participant_1_theme": "adventure",
+    "participant_2_theme": "teamwork",
+    "words": [
+        "Map",
+        "Follow",
+        "Shadow",
+        "Lead",
+        "Puzzle",
+        "Agree",
+        "Keyhole",
+        "Discover",
+        "Secret"
+    ],
+    "story": [
+        "Through the old mansion's keyhole,\nYoung Jake spied an eerie glow.",
+        "it was a secret mentioned deep in the forest and the young Jake has never been here before but he decided to stay and see what's going on",
+        "Jake lights that the door to the mansion was open so he decided to discover what is inside the mansion and went inside the mansion",
+        "In the dusty, candlelit study,\nA cryptic puzzle caught Jake\u2019s eye.",
+        "after spending some time carefully solving the puzzle Jake realize that the puzzle actually show the map",
+        "Jake agreed that he was really bored and he wanted to follow the map so since the starting point on the map was the kitchen he decided to go to the kitchen",
+        "In the kitchen, shadows danced,\nAs Jake's heartbeats surged, entranced.",
+        "Jake tried to see what's going on in the kitchen but he didn't realize that he was actually followed by another shadow",
+        "he decided to follow the shadow back instead and the shadow decided to lead him to the basement what happened to Jake will forever remain a mystery"
+    ],
+    "agent_contributions": {
+        "sam": [
+            "Through the old mansion's keyhole,\nYoung Jake spied an eerie glow.",
+            "In the dusty, candlelit study,\nA cryptic puzzle caught Jake\u2019s eye.",
+            "In the kitchen, shadows danced,\nAs Jake's heartbeats surged, entranced."
+        ],
+        "yidi": [
+            "it was a secret mentioned deep in the forest and the young Jake has never been here before but he decided to stay and see what's going on",
+            "after spending some time carefully solving the puzzle Jake realize that the puzzle actually show the map",
+            "Jake tried to see what's going on in the kitchen but he didn't realize that he was actually followed by another shadow"
+        ],
+        "ishita": [
+            "Jake lights that the door to the mansion was open so he decided to discover what is inside the mansion and went inside the mansion",
+            "Jake agreed that he was really bored and he wanted to follow the map so since the starting point on the map was the kitchen he decided to go to the kitchen",
+            "he decided to follow the shadow back instead and the shadow decided to lead him to the basement what happened to Jake will forever remain a mystery"
+        ]
+    },
+    "agent_selected_words": {
+        "sam": [
+            "Keyhole",
+            "Puzzle",
+            "Shadow"
+        ],
+        "yidi": [
+            "Secret",
+            "Map",
+            "Follow"
+        ],
+        "ishita": [
+            "Discover",
+            "Agree",
+            "Lead"
+        ]
+    },
+    "turns": [
+        "sam",
+        "yidi",
+        "ishita",
+        "sam",
+        "yidi",
+        "ishita",
+        "sam",
+        "yidi",
+        "ishita"
+    ],
+    "robot_predicted_words": {}
+}

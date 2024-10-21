@@ -1,0 +1,78 @@
+{
+    "session_string": "pid_25:pid_26:baseline",
+    "story_start_time": 1728596770.612019,
+    "story_end_time": 1728597168.7447212,
+    "total_time": 398.1327021121979,
+    "total_reward": 48.199999999999996,
+    "robot_theme": "adventure",
+    "participant_1_theme": "mystery",
+    "participant_2_theme": "teamwork",
+    "words": [
+        "Evidence",
+        "Trust",
+        "Assist",
+        "Secret",
+        "Support",
+        "Strange",
+        "Journey",
+        "Truth",
+        "Wild"
+    ],
+    "story": [
+        "Jack begins his journey,\nTo lands unseen and unknown.",
+        "in the wild terrain he quickly gets confused on where to go next",
+        "he needed support and luckily he found a friend of there who was also there to explore the Unseen and unknown",
+        "A map, old and dusted, both of their eyes leaned in.\nAn assist they needed, to unscramble the path unseen.",
+        "in the map they found a secret message that needed to be solved",
+        "secret message was very strange something that they had never seen before and they both were very worried how to solve it and luckily they found a secret way to solve it",
+        "Evidence they found on the path,\nHints to solve the riddle's wrath.\nA mystery that time would unwrap.",
+        "they quickly solved the mystery and had Newfound trust that they will be able to finish their Journey",
+        "the truth was that a day that Jack was actually dreaming and he was asleep"
+    ],
+    "agent_contributions": {
+        "sam": [
+            "Jack begins his journey,\nTo lands unseen and unknown.",
+            "A map, old and dusted, both of their eyes leaned in.\nAn assist they needed, to unscramble the path unseen.",
+            "Evidence they found on the path,\nHints to solve the riddle's wrath.\nA mystery that time would unwrap."
+        ],
+        "afsara": [
+            "in the wild terrain he quickly gets confused on where to go next",
+            "in the map they found a secret message that needed to be solved",
+            "they quickly solved the mystery and had Newfound trust that they will be able to finish their Journey"
+        ],
+        "shreejeet": [
+            "he needed support and luckily he found a friend of there who was also there to explore the Unseen and unknown",
+            "secret message was very strange something that they had never seen before and they both were very worried how to solve it and luckily they found a secret way to solve it",
+            "the truth was that a day that Jack was actually dreaming and he was asleep"
+        ]
+    },
+    "agent_selected_words": {
+        "sam": [
+            "Journey",
+            "Assist",
+            "Evidence"
+        ],
+        "afsara": [
+            "Wild",
+            "Secret",
+            "Trust"
+        ],
+        "shreejeet": [
+            "Support",
+            "Strange",
+            "Truth"
+        ]
+    },
+    "turns": [
+        "sam",
+        "afsara",
+        "shreejeet",
+        "sam",
+        "afsara",
+        "shreejeet",
+        "sam",
+        "afsara",
+        "shreejeet"
+    ],
+    "robot_predicted_words": {}
+}

@@ -1,0 +1,84 @@
+{
+    "session_string": "pid_11:pid_12:proposed",
+    "story_start_time": 1728519080.3186235,
+    "story_end_time": 1728519491.5427158,
+    "total_time": 411.22409224510193,
+    "total_reward": 48.4,
+    "robot_theme": "adventure",
+    "participant_1_theme": "adventure",
+    "participant_2_theme": "fairy tale",
+    "words": [
+        "curse",
+        "Forest",
+        "Wood",
+        "dragon",
+        "wizard",
+        "potion",
+        "Unknown",
+        "transform",
+        "castle"
+    ],
+    "story": [
+        "In the heart of the forest, a mysterious potion shimmered in the moonlight. It seemed to bear the secrets of an arcane world.",
+        "then the wizard came out of nowhere and says oh what an amazing world this is",
+        "the wizard looked out into the world and decided to walk down an unknown path",
+        "The journey continued, leading the curious wizard toward an ancient castle, whose towering silhouette was visible among the mystical trees. Rumors of it being inhabited by a creature with fiery breath stirred his courage.",
+        "the dragon appeared from the high territory and basically made a loud sound",
+        "the dragon breathes fire among the land and created a huge forest fire",
+        "The wizard, envisioning a strategy, found his ordeal not at an end but a transformative beginning. His hands danced around the enchanted potion, hinting at a powerful spell interlaced with unforeseen side-effects. As the potion's ethereal glow reflected in his determined eyes, whispers of ill fortunes subtly tickled his apprehension.",
+        "as a result the potion put a curse over all the people living in the Mysterious World it was just atrocious",
+        "a citizen of the castle was able to look into the woods and find a cure to this potion"
+    ],
+    "agent_contributions": {
+        "sam": [
+            "In the heart of the forest, a mysterious potion shimmered in the moonlight. It seemed to bear the secrets of an arcane world.",
+            "The journey continued, leading the curious wizard toward an ancient castle, whose towering silhouette was visible among the mystical trees. Rumors of it being inhabited by a creature with fiery breath stirred his courage.",
+            "The wizard, envisioning a strategy, found his ordeal not at an end but a transformative beginning. His hands danced around the enchanted potion, hinting at a powerful spell interlaced with unforeseen side-effects. As the potion's ethereal glow reflected in his determined eyes, whispers of ill fortunes subtly tickled his apprehension."
+        ],
+        "gus": [
+            "then the wizard came out of nowhere and says oh what an amazing world this is",
+            "the dragon appeared from the high territory and basically made a loud sound",
+            "as a result the potion put a curse over all the people living in the Mysterious World it was just atrocious"
+        ],
+        "sarah": [
+            "the wizard looked out into the world and decided to walk down an unknown path",
+            "the dragon breathes fire among the land and created a huge forest fire",
+            "a citizen of the castle was able to look into the woods and find a cure to this potion"
+        ]
+    },
+    "agent_selected_words": {
+        "sam": [
+            "potion",
+            "castle",
+            "transform"
+        ],
+        "gus": [
+            "wizard",
+            "dragon",
+            "curse"
+        ],
+        "sarah": [
+            "Unknown",
+            "Forest",
+            "Wood"
+        ]
+    },
+    "turns": [
+        "sam",
+        "gus",
+        "sarah",
+        "sam",
+        "gus",
+        "sarah",
+        "sam",
+        "gus",
+        "sarah"
+    ],
+    "robot_predicted_words": {
+        "gus": [
+            "wizard",
+            "dragon",
+            "curse"
+        ]
+    }
+}

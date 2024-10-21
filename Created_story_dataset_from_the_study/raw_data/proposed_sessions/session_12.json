@@ -1,0 +1,84 @@
+{
+    "session_string": "pid_23:pid_24:proposed",
+    "story_start_time": 1728591295.8255804,
+    "story_end_time": 1728591806.5404246,
+    "total_time": 510.71484422683716,
+    "total_reward": 36.2,
+    "robot_theme": "teamwork",
+    "participant_1_theme": "teamwork",
+    "participant_2_theme": "adventure",
+    "words": [
+        "Explore",
+        "Lead",
+        "Journey",
+        "Map",
+        "Join",
+        "Fellowship",
+        "Forest",
+        "Ancient",
+        "Collaborate"
+    ],
+    "story": [
+        "In a bustling city, two bold adventurers, Lena and Theo, discovered a mysterious map. To unveil the map's secret, they realized a teamwork approach was needed.",
+        "Lena and Theo collaborated with a team of scientists to discover the origins of the map the scientists told them that the origins were Native American and that they needed to explore old Native American camps and towns in order to discover where the map would lead them they would find more information there",
+        "with the help of the scientist Elena and Theo went to the Native American Island to find out the secret of the map they find out there are many indigenous people there and there were many Treasures there and many unknown places where there so they were Ms to find out different types of wild animals there and they didn't know before about those things before",
+        "Compelled by the importance of their quest, they were quick to join forces with the indigenous people. This alliance harmoniously blended ancient wisdom and modern knowledge. The key to unlock the map's riddle was within reach; all it required was someone to effectively illuminate the path.",
+        "lean on Tio formed a fellowship with the village elders and the village Elders were able to light the path for the way to unlock the maps riddle they were very very close to reaching their goals and we're very very close to reaching the treasure",
+        "with the help of the indigenous people Lena and Theo went to a forest and they want to find the forestry of the forest using the map and they find out many unknown places in the forest there so many wild animals there and they finally they want to find out the hidden treasure in the forest",
+        "With the elders' wisdom as their guide, Lena and Theo took the lead, ready to steer their team through this untamed wilderness. The map's enigmatic path stretching before them, a shared glance signified their readiness for the expedition into the heart of the unknown. Their destination? A promise of discovery and adventure, waiting just beyond the next sunrise.",
+        "after a long and hard journey they finally reached the treasure the treasure was revealed and it was an ancient artifact that could Grant Lena and Theo any wish they desired they took some time to consider what wish they wanted to be granted before they went home",
+        "so finally they concluded their Journey with the ancient artifact and they were very happy to find out find this ancient artifact and they want to donate this ancient artifact to a museum so that people can know about ancient things and get knowledge about ancient technology and other things"
+    ],
+    "agent_contributions": {
+        "sam": [
+            "In a bustling city, two bold adventurers, Lena and Theo, discovered a mysterious map. To unveil the map's secret, they realized a teamwork approach was needed.",
+            "Compelled by the importance of their quest, they were quick to join forces with the indigenous people. This alliance harmoniously blended ancient wisdom and modern knowledge. The key to unlock the map's riddle was within reach; all it required was someone to effectively illuminate the path.",
+            "With the elders' wisdom as their guide, Lena and Theo took the lead, ready to steer their team through this untamed wilderness. The map's enigmatic path stretching before them, a shared glance signified their readiness for the expedition into the heart of the unknown. Their destination? A promise of discovery and adventure, waiting just beyond the next sunrise."
+        ],
+        "nate": [
+            "Lena and Theo collaborated with a team of scientists to discover the origins of the map the scientists told them that the origins were Native American and that they needed to explore old Native American camps and towns in order to discover where the map would lead them they would find more information there",
+            "lean on Tio formed a fellowship with the village elders and the village Elders were able to light the path for the way to unlock the maps riddle they were very very close to reaching their goals and we're very very close to reaching the treasure",
+            "after a long and hard journey they finally reached the treasure the treasure was revealed and it was an ancient artifact that could Grant Lena and Theo any wish they desired they took some time to consider what wish they wanted to be granted before they went home"
+        ],
+        "arafat": [
+            "with the help of the scientist Elena and Theo went to the Native American Island to find out the secret of the map they find out there are many indigenous people there and there were many Treasures there and many unknown places where there so they were Ms to find out different types of wild animals there and they didn't know before about those things before",
+            "with the help of the indigenous people Lena and Theo went to a forest and they want to find the forestry of the forest using the map and they find out many unknown places in the forest there so many wild animals there and they finally they want to find out the hidden treasure in the forest",
+            "so finally they concluded their Journey with the ancient artifact and they were very happy to find out find this ancient artifact and they want to donate this ancient artifact to a museum so that people can know about ancient things and get knowledge about ancient technology and other things"
+        ]
+    },
+    "agent_selected_words": {
+        "sam": [
+            "Map",
+            "Join",
+            "Lead"
+        ],
+        "nate": [
+            "Collaborate",
+            "Fellowship",
+            "Ancient"
+        ],
+        "arafat": [
+            "Explore",
+            "Forest",
+            "Journey"
+        ]
+    },
+    "turns": [
+        "sam",
+        "nate",
+        "arafat",
+        "sam",
+        "nate",
+        "arafat",
+        "sam",
+        "nate",
+        "arafat"
+    ],
+    "robot_predicted_words": {
+        "nate": [
+            "Join",
+            "Lead",
+            "Journey"
+        ]
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "session_string": "pid_39:pid_40:baseline",
+    "story_start_time": 1728681610.3570356,
+    "story_end_time": 1728682019.5488787,
+    "total_time": 409.1918430328369,
+    "total_reward": 37.6,
+    "robot_theme": "teamwork",
+    "participant_1_theme": "adventure",
+    "participant_2_theme": "fairy tale",
+    "words": [
+        "Assist",
+        "castle",
+        "Forest",
+        "Unknown",
+        "Treasure",
+        "Journey",
+        "potion",
+        "Discover",
+        "Join"
+    ],
+    "story": [
+        "In the bustling cityscape,\nRobo and Nano assist each other.",
+        "as the joint together they help each other and they are joined Adventure makes many important things in the world",
+        "but they were poor so they always thought of getting hold of any treasure to make themselves Rich one day while sitting underneath a big mountain they started thinking how to get hold of a razor",
+        "\"Their journey for riches begins,\" \n\"Over hills and deep within.\"\n\"Guided by teamwork, they trust their wings.\"",
+        "they found that there were some unknown mystery books in the library and in those books there are maps of the treasures so they started to think how to get them and they made a plan to visit the library to books and go for the unknown Treasures",
+        "in a book in the library they saw there exists a treasure in the basement of a castle but only who has six fingers on his left hand can get hold of that razor",
+        "\"In the deep blue gloom, they discover,\"\n\"An ancient map, no creature could recover.\"\n\"Against all odds, their faith will never waver.\"",
+        "they plan to find the castle even if it is in the deep forest they decided they will eventually found it find it the promised each other they will never stop until they find it but suddenly they saw the ceiling of the library and there was written that it is the fictions section so they understood that this books are all fictional and there was no truth behind this",
+        "disappointed Robo and Nano went back to their work they left without the magic potion of becoming rich and kept on being the same word that they were before"
+    ],
+    "agent_contributions": {
+        "sam": [
+            "In the bustling cityscape,\nRobo and Nano assist each other.",
+            "\"Their journey for riches begins,\" \n\"Over hills and deep within.\"\n\"Guided by teamwork, they trust their wings.\"",
+            "\"In the deep blue gloom, they discover,\"\n\"An ancient map, no creature could recover.\"\n\"Against all odds, their faith will never waver.\""
+        ],
+        "joy": [
+            "as the joint together they help each other and they are joined Adventure makes many important things in the world",
+            "they found that there were some unknown mystery books in the library and in those books there are maps of the treasures so they started to think how to get them and they made a plan to visit the library to books and go for the unknown Treasures",
+            "they plan to find the castle even if it is in the deep forest they decided they will eventually found it find it the promised each other they will never stop until they find it but suddenly they saw the ceiling of the library and there was written that it is the fictions section so they understood that this books are all fictional and there was no truth behind this"
+        ],
+        "simantika": [
+            "but they were poor so they always thought of getting hold of any treasure to make themselves Rich one day while sitting underneath a big mountain they started thinking how to get hold of a razor",
+            "in a book in the library they saw there exists a treasure in the basement of a castle but only who has six fingers on his left hand can get hold of that razor",
+            "disappointed Robo and Nano went back to their work they left without the magic potion of becoming rich and kept on being the same word that they were before"
+        ]
+    },
+    "agent_selected_words": {
+        "sam": [
+            "Assist",
+            "Journey",
+            "Discover"
+        ],
+        "joy": [
+            "Join",
+            "Unknown",
+            "Forest"
+        ],
+        "simantika": [
+            "Treasure",
+            "castle",
+            "potion"
+        ]
+    },
+    "turns": [
+        "sam",
+        "joy",
+        "simantika",
+        "sam",
+        "joy",
+        "simantika",
+        "sam",
+        "joy",
+        "simantika"
+    ],
+    "robot_predicted_words": {}
+}
